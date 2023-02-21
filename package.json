@@ -1,8 +1,7 @@
 {
   "name": "radio-api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "API to render radios online created with json-server",
   "scripts": {
     "start": "node server.js"
   },

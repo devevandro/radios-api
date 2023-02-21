@@ -1,8 +1,0 @@
-{ 
-  "port": 4500,
-  "watch": true,
-  "read-only": false,
-  "no-cors": false,
-  "no-gzip": false,
-  "routes": "routes.json"
-}
