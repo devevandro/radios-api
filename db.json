@@ -1,0 +1,373 @@
+{
+  "rondonia": [
+    {
+      "id": 1,
+      "name": "Planalto FM",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "https://player.roxcast.com.br/proxy/7404",
+      "img": "http://www.plansol.com.br/images/1017.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Antena FM",
+      "city": "Jorge Teixeira",
+      "state": "RO",
+      "url": "http://r16.ciclano.io:9864/;",
+      "img": "http://radioantenafm.com.br/images/icon-jorge-teixeira.png",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Mega FM",
+      "city": "Espigão dOeste",
+      "state": "RO",
+      "url": "http://148.72.144.152:8066/live",
+      "img": "http://mega96fm.com/wp-content/uploads/2016/04/logo-novo.png",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "FM do Povo",
+      "city": "Jaru",
+      "state": "RO",
+      "url": "https://player.painelvox.com/player-ssl/8890/;/;?1611586907612",
+      "img": "https://pa-str.srvsite.com/arquivos/5604/cabecalho-5604-20200418182525.jpg",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Alternative FM",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "http://server08.srvsh.com.br:7674/;",
+      "img": "http://www.alternativa104.com/img/805808248.png",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Mirante FM",
+      "city": "Mirante da Serra",
+      "state": "RO",
+      "url": "http://paineldj4.com.br:8278/stream?type=.mp3",
+      "img": "https://img.radios.com.br/radio/lg/radio23694_1439401588.jpg",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Band FM",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "https://shout35.crossradio.com.br:18122/stream?1610553835330",
+      "img": "https://static.wixstatic.com/media/6cc650_53729ace43394201bb33093c1661db37~mv2_d_5593_2860_s_4_2.png/v1/fill/w_271,h_138,al_c,q_85,usm_0.66_1.00_0.01/Ativo%202.webp",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "Alto Alegre FM",
+      "city": "Alto Alegre dos Parecis",
+      "state": "RO",
+      "url": "https://player.roxcast.com.br/proxy/7086",
+      "img": "https://img.radios.com.br/radio/lg/radio25861_1439401627.jpg",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Plan FM",
+      "city": "Vilhena",
+      "state": "RO",
+      "url": "https://stm01.virtualcast.com.br:8650/stream?1611587613887",
+      "img": "http://www.plansol.com.br/images/907.png",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Massa FM",
+      "city": "Rolim de Moura",
+      "state": "RO",
+      "url": "https://stm01.virtualcast.com.br:8162/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ro/radio-massa-fm-rolim-de-moura.png",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "Parecis FM",
+      "city": "Santa Luzia dOeste",
+      "state": "RO",
+      "url": "https://player.painelvox.com/player-ssl/8394/;/;",
+      "img": "https://parecis90.com.br/uploads/settings/6c708ac88a608dbecdee3e49bce14564.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Positiva FM",
+      "city": "Vilhena",
+      "state": "RO",
+      "url": "https://cast.hoost.com.br:20045/stream",
+      "img": "https://www.fmpositiva.com.br/files/2020/03/rrrr.png",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Rondônia FM",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "https://f17.fabricahost.com.br/rondonia933?f=1610554064N1c8bb91d7f3a7335a8d0f993d865acec",
+      "img": "https://portalradiorondonia.com/wp-content/uploads/2020/10/logotopo.png",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Princesa Web",
+      "city": "Alta Floresta Do Oeste",
+      "state": "RO",
+      "url": "http://stm1.mestrestream.xyz:7348/;?1610554632111",
+      "img": "http://3.bp.blogspot.com/-6G57xc4_jg0/X_m8CXEqINI/AAAAAAAA1qY/3n8ycdEElWYnJ94FmQRj1NkbJh6BJFUQACK4BGAYYCw/s1600/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "Antena FM",
+      "city": "Alvorada do Oeste",
+      "state": "RO",
+      "url": "http://r16.ciclano.io:9858/;",
+      "img": "http://radioantenafm.com.br/images/alvorada.png",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Massa FM",
+      "city": "Vilhena",
+      "state": "RO",
+      "url": "https://stm01.virtualcast.com.br:8130/live",
+      "img": "https://www.massafm.com.br/wp-content/uploads/2020/06/LOGO_MENU_GERAL.svg",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Clube FM",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "https://shout35.crossradio.com.br:18120/1;",
+      "img": "https://clube.fm/jiparana/wp-content/uploads/sites/9/2019/11/logo-jiparana.png",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Cultura FM",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "https://cc1.streammaximum.com:2181/stream?1610554246802",
+      "img": "https://img.radios.com.br/radio/lg/radio18901_1459420021.jpg",
+      "region": "north"
+    },
+    {
+      "id": 19,
+      "name": "Antena FM",
+      "city": "Cacoal",
+      "state": "RO",
+      "url": "https://ssl.xcast.com.br:10254/;",
+      "img": "http://radioantenafm.com.br/images/96.png",
+      "region": "north"
+    },
+    {
+      "id": 20,
+      "name": "Rolim FM",
+      "city": "Rolim de Moura",
+      "state": "RO",
+      "url": "https://server2.webradios.com.br:19108/9108",
+      "img": "https://img.radios.com.br/radio/lg/radio14420_1593437981.jpg",
+      "region": "north"
+    },
+    {
+      "id": 21,
+      "name": "Planalto FM",
+      "city": "Novo Horizonte",
+      "state": "RO",
+      "url": "https://centova.svdns.com.br:20025/stream",
+      "img": "http://www.plansol.com.br/images/917.png",
+      "region": "north"
+    },
+    {
+      "id": 22,
+      "name": "Transamazônica FM",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "http://stm2.voxhd.com.br:7528/;",
+      "img": "http://www.radiotransamazonica.fm.br/logo.gif",
+      "region": "north"
+    },
+    {
+      "id": 23,
+      "name": "Verde Amazônia",
+      "city": "Ariquemes",
+      "state": "RO",
+      "url": "https://servidor25-4.brlogic.com:8020/live",
+      "img": "https://play-lh.googleusercontent.com/6cQv6nO3pP5YIEAMkVv1H35RDMteDD33k0rfXVXt7gkIRlzKb5gRimpzAMYCuz64bSg=s180-rw",
+      "region": "north"
+    },
+    {
+      "id": 24,
+      "name": "Antena FM",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "https://ssl.xcast.com.br:8316/;",
+      "img": "http://radioantenafm.com.br/images/95.png",
+      "region": "north"
+    },
+    {
+      "id": 25,
+      "name": "Hot Mix",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "https://node-12.zeno.fm/hzq5fgpyszzuv?rj-ttl=5&rj-tok=AAABdvyOBPUAhBgAQ6tFBwUK7g",
+      "img": "https://radiohotmix.com.br/wp-content/uploads/2020/05/hotmix-transp.png",
+      "region": "north"
+    },
+    {
+      "id": 26,
+      "name": "Geração FM",
+      "city": "Vale do Paraíso",
+      "state": "RO",
+      "url": "https://player.roxcast.com.br/proxy/7052",
+      "img": "https://www.geracaofmro.com.br/adm/zHD/logo/0459894001572380138.jpg",
+      "region": "north"
+    },
+    {
+      "id": 27,
+      "name": "Migrante FM",
+      "city": "São Miguel dOeste",
+      "state": "RO",
+      "url": "https://player.roxcast.com.br/proxy/7050",
+      "img": "https://www.radiomigrantefm.com.br/adm/zHD/logo/0331254001573384102.jpg",
+      "region": "north"
+    },
+    {
+      "id": 28,
+      "name": "Liberdade FM",
+      "city": "Rolim de Moura",
+      "state": "RO",
+      "url": "https://whd1.webradios.com.br:18584/8584",
+      "img": "https://img.radios.com.br/radio/lg/radio13611_1474452804.jpg",
+      "region": "north"
+    },
+    {
+      "id": 29,
+      "name": "Plan FM",
+      "city": "Jarú",
+      "state": "RO",
+      "url": "http://srv.radioproarte.com.br:7274/;",
+      "img": "https://planfmjaru.com.br/wp-content/themes/fmdopovo/images/Logo.png",
+      "region": "north"
+    },
+    {
+      "id": 30,
+      "name": "Antena FM",
+      "city": "Urupa",
+      "state": "RO",
+      "url": "http://r16.ciclano.io:9659/;",
+      "img": "http://radioantenafm.com.br/images/urupa.png",
+      "region": "north"
+    },
+    {
+      "id": 31,
+      "name": "Cannã",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "http://ettxh.srv01.brasilstream.com.br:8930/stream?identifica=10928739758590013000",
+      "img": "http://www.canaafm104.com.br/images/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 32,
+      "name": "Romiporã FM",
+      "city": "Espigão dOeste",
+      "state": "RO",
+      "url": "http://audio8.cmaudioevideo.com:8618/stream?1611586700694",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ro/radio-romipora-fm-espigao-do-oeste.png",
+      "region": "north"
+    },
+    {
+      "id": 33,
+      "name": "Alternative FM",
+      "city": "Campo Novo de Rondônia",
+      "state": "RO",
+      "url": "https://player.srvaudio.com.br/player-ssl/8536/;",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ro/radio-alternativa-fm-campo-novo-de-rondonia.png",
+      "region": "north"
+    },
+    {
+      "id": 34,
+      "name": "Web Mídia",
+      "city": "Cacaulândia",
+      "state": "RO",
+      "url": "https://player-ssl.painelstream.net:8210/live",
+      "img": "https://radiowebmidia.com.br/wp-content/uploads/2019/09/logo-webmidia-300x129.png",
+      "region": "north"
+    },
+    {
+      "id": 35,
+      "name": "Verdes Florestas",
+      "city": "Alta Floresta Do Oeste",
+      "state": "RO",
+      "url": "http://srv.radioproarte.com.br:7114/stream?1610554596602",
+      "img": "https://img.radios.com.br/radio/lg/radio34030_1470656340.jpg",
+      "region": "north"
+    },
+    {
+      "id": 36,
+      "name": "Parecis FM",
+      "city": "Porto Velho",
+      "state": "RO",
+      "url": "https://player.painelvox.com/player-ssl/8334/;",
+      "img": "https://parecisfm.com/wp-content/uploads/2020/10/logo-radio.png",
+      "region": "north"
+    },
+    {
+      "id": 37,
+      "name": "Clube FM",
+      "city": "Ariquemes",
+      "state": "RO",
+      "url": "https://shout35.crossradio.com.br:18118/1;",
+      "img": "https://static.wixstatic.com/media/6cc650_aab03d13895749cb9eb154bcfb37c0d8~mv2_d_5000_5000_s_4_2.png/v1/crop/x_0,y_38,w_5000,h_4925/fill/w_252,h_250,al_c,q_85,usm_0.66_1.00_0.01/Clube--92-3-Ariquemes.webp",
+      "region": "north"
+    },
+    {
+      "id": 38,
+      "name": "Antena FM",
+      "city": "Ariquemes",
+      "state": "RO",
+      "url": "https://ssl.xcast.com.br:9158/;",
+      "img": "http://radioantenafm.com.br/images/103.png",
+      "region": "north"
+    },
+    {
+      "id": 39,
+      "name": "Onda Sul FM",
+      "city": "Vilhena",
+      "state": "RO",
+      "url": "https://f17.fabricahost.com.br/ondasulfm?f=1611602375N2672c3f69ab1ab8fc3262dda6dcec9c4",
+      "img": "https://ondasulfm.com/css/imagem/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 40,
+      "name": "Mix FM",
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "url": "https://shout25.crossradio.com.br:18168/1;?175398.30505904485",
+      "img": "http://jiparana.radiomixfm.com.br/wp-content/uploads/2017/10/logo-mix-rede-137x99.png",
+      "region": "north"
+    },
+    {
+      "id": 41,
+      "name": "Tropical FM",
+      "city": "Presidente Médici",
+      "state": "RO",
+      "url": "https://player.roxcast.com.br/proxy/7406?1611602704112",
+      "img": "http://www.plansol.com.br/images/927.png",
+      "region": "north"
+    }
+  ]
+}
