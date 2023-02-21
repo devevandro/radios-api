@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Mega FM",
-      "city": "Espigão dOeste",
+      "city": "Espigão d'Oeste",
       "state": "RO",
       "url": "http://148.72.144.152:8066/live",
       "img": "http://mega96fm.com/wp-content/uploads/2016/04/logo-novo.png",
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "name": "Parecis FM",
-      "city": "Santa Luzia dOeste",
+      "city": "Santa Luzia d'Oeste",
       "state": "RO",
       "url": "https://player.painelvox.com/player-ssl/8394/;/;",
       "img": "https://parecis90.com.br/uploads/settings/6c708ac88a608dbecdee3e49bce14564.png",
@@ -237,7 +237,7 @@
     {
       "id": 27,
       "name": "Migrante FM",
-      "city": "São Miguel dOeste",
+      "city": "São Miguel d'Oeste",
       "state": "RO",
       "url": "https://player.roxcast.com.br/proxy/7050",
       "img": "https://www.radiomigrantefm.com.br/adm/zHD/logo/0331254001573384102.jpg",
@@ -282,7 +282,7 @@
     {
       "id": 32,
       "name": "Romiporã FM",
-      "city": "Espigão dOeste",
+      "city": "Espigão d'Oeste",
       "state": "RO",
       "url": "http://audio8.cmaudioevideo.com:8618/stream?1611586700694",
       "img": "https://www.guiademidia.com.br/imagens/radios/ro/radio-romipora-fm-espigao-do-oeste.png",
@@ -368,6 +368,4999 @@
       "url": "https://player.roxcast.com.br/proxy/7406?1611602704112",
       "img": "http://www.plansol.com.br/images/927.png",
       "region": "north"
+    }
+  ],
+  "acre": [
+    {
+      "id": 1,
+      "name": "Gazeta 93,3 FM",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://centova5.acresites.com.br:8101/mountpoint",
+      "img": "https://www.radiogazetafm93.net/arquivos/logomarca/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Verdes Florestas FM",
+      "city": "Cruzeiro do Sul",
+      "state": "AC",
+      "url": "http://caikron.com.br:8018/stream?1604779122550",
+      "img": "https://img.radios.com.br/radio/lg/radio55691_1574959154.jpg",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Alternativa FM",
+      "city": "Acrelândia",
+      "state": "AC",
+      "url": "https://ssl.srvstm.com:7530/;",
+      "img": "http://www.alternativafm879.com.br/thumb.php?h=70&src=images/1588858165.png",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "Ocidental FM",
+      "city": "Porto do Walter",
+      "state": "AC",
+      "url": "https://play.helplay.com.br/stream?1604792330466",
+      "img": "https://img.radios.com.br/radio/lg/radio23024_1470218370.jpg",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Aldeia FM",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://midia.ac.gov.br/aldeiafm",
+      "img": "http://aldeiafm.ac.gov.br/images/aldeia300.png",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Integração FM",
+      "city": "Cruzeiro do Sul",
+      "state": "AC",
+      "url": "http://02.bitstreaming.info:8432/stream?1604777228498",
+      "img": "https://pbr-str.srvsite.com/arquivos/6418/cabecalho-6418-20190425200313.png",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Boas Novas",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "https://player.voxpainel.com.br/proxy/9860",
+      "img": "http://boasnovasacre.com.br/home/thumb.php?h=70&src=images/1499397543.png",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "EcoAcre FM",
+      "city": "Epitaciolândia",
+      "state": "AC",
+      "url": "http://streaming.omegasistemas.com.br:8578/stream.mp3?1604777436561",
+      "img": "https://i1.wp.com/www.ecoacre.net/wp-content/uploads/2019/04/ecoacre_fm_epitaciolandia-13445.jpg?zoom=1.25&fit=290%2C90",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Gameleira FM",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://aovivo.brstreaming.com.br:8316/stream?1604663503809",
+      "img": "https://img.radios.com.br/radio/lg/radio27428_1439401689.jpg",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Juruá FM",
+      "city": "Cruzeiro do Sul",
+      "state": "AC",
+      "url": "http://r13.ciclano.io:8294/stream?1604664132726",
+      "img": "https://www.juruaonline.net/images/nov_azul_7.png",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "Rádio Ocidental",
+      "city": "Porto Walter",
+      "state": "AC",
+      "url": "https://play.helplay.com.br/stream",
+      "img": "https://ocidentalfm.com.br/wp-content/uploads/2020/05/logo-ocidental.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Difusora Acreana",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://midia.ac.gov.br/difusora",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/19730.v5.png",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Tropical Gospel",
+      "city": "Mâncio Lima",
+      "state": "AC",
+      "url": "https://node-09.zeno.fm/1yw3yxusv4zuv?rj-ttl=5&rj-tok=AAABdaRP4gMAw06J_GWXf4rCiQ",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/4/94414.v3.png",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Cidade FM",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://centova5.acresites.com.br:9303/;",
+      "img": "http://www.radiocidadeac.com.br/arquivos/logomarca/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "EcoAcre FM",
+      "city": "Senador Guiomard",
+      "state": "AC",
+      "url": "http://streaming.omegasistemas.com.br:8488/stream.mp3?1604777536597",
+      "img": "https://i0.wp.com/www.ecoacre.net/wp-content/uploads/2019/04/ecoacre_fm_senadorguiomard.jpg?zoom=1.25&fit=290%2C90",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Flash Back Total",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "http://stm21.srvaudio.com.br:10604/stream",
+      "img": "http://us0-cdn.onlineradiobox.com/img/logo/9/76449.v8.png",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Rádio Casanova",
+      "city": "Rio Branco",
+      "state": "AC",
+      "url": "https://ssl.painelcast.com:6768/;",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/49370.v6.png",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Rádio Web Rio Juruá",
+      "city": "Cruzeiro do Sul",
+      "state": "AC",
+      "url": "https://node-18.zeno.fm/hcsz1f2fha0uv?rj-ttl=5&rj-tok=AAABdaRNZ7kA6Ur8b_bnFl-UuQ",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/2/94412.v2.png",
+      "region": "north"
+    }
+  ],
+  "amapa": [
+    {
+      "id": 1,
+      "name": "RBN News",
+      "city": "Macapá",
+      "state": "AM",
+      "url": "http://eu2.fastcast4u.com:3332/;",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/20100.v2.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Marco Zero",
+      "city": "Laranjal do Jari",
+      "state": "AM",
+      "url": "https://s06.maxcast.com.br:8102/live?id=943875716338",
+      "img": "https://fmmarcozerojari.com/imagens/2f08e83beb35ff172e6d76e98be91851.png",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Oiapoque FM",
+      "city": "Oiapoque",
+      "state": "AM",
+      "url": "https://player-ssl.kshost.com.br:9664/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ap/radio-oiapoque-fm.png",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "FM 102",
+      "city": "Macapá",
+      "state": "AM",
+      "url": "http://servidor21.brlogic.com:7754/live?1615319054948",
+      "img": "https://img.radios.com.br/radio/lg/radio27_1611225148.png",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Evangélica FM",
+      "city": "Santana",
+      "state": "AM",
+      "url": "https://ssl.srvsh.com.br:23348/stream",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ap/web-radio-evangelica-fm.png",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Laranjal FM",
+      "city": "Laranjal do Jari",
+      "state": "AM",
+      "url": "http://162.210.196.145:39177/stream?1604786090740",
+      "img": "https://img.radios.com.br/radio/lg/radio87431_1586343887.png",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Rádio IPAD",
+      "city": "Macapá",
+      "state": "AM",
+      "url": "http://stm11.conectastm.com:6986/stream",
+      "img": "http://www.radioipad.com.br/admin/assets/img/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "Web Rádio Verdade",
+      "city": "Laranjal do Jari",
+      "state": "AM",
+      "url": "https://streaming05.zas.media:9105/live",
+      "img": "https://www.ministerioverdade.com/wp-content/uploads/sites/9/2019/12/logotipo.png",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "100 Web",
+      "city": "Santana",
+      "state": "AM",
+      "url": "https://player.srvaudio.com.br/player-ssl/11474/;?1604786558625",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ap/radio-100-web.png",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Desportiva FM",
+      "city": "Macapá",
+      "state": "AM",
+      "url": "http://srv7.ipstm.net:15250/;",
+      "img": "https://static.mytuner.mobi/media/tvos_radios/kutknkvgzbdw.jpg",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "Oiapoque FM",
+      "city": "Oiapoque",
+      "state": "AM",
+      "url": "http://hts05.kshost.com.br:9664/stream?1613097035424",
+      "img": "https://img.radios.com.br/radio/lg/radio40932_1565016557.jpg",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Mix FM",
+      "city": "Macapá",
+      "state": "AM",
+      "url": "https://shout25.crossradio.com.br:18132/1;?539185.5890079853",
+      "img": "http://macapa.radiomixfm.com.br/wp-content/uploads/2017/10/logo-mix-rede-137x99.png",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Fronteira FM",
+      "city": "Oiapoque",
+      "state": "AM",
+      "url": "https://s09.maxcast.com.br:8126/live?id=1615319426421",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ap/radio-fronteira-fm-oiapoque.png",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Onda Livre FM",
+      "city": "Santana",
+      "state": "AM",
+      "url": "http://sv12.hdradios.net:7070/stream",
+      "img": "http://www.radioondalivre105.com.br/admin/assets/img/locutores/padrao.png?img=March+9%2C+2021%2C+4%3A54+pm+30",
+      "region": "north"
+    }
+  ],
+  "amazonas": [
+    {
+      "id": 1,
+      "name": "Tiradentes FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "http://189.2.83.108:8040/tiradentes",
+      "img": "https://www.redetiradentes.com.br/wp-content/themes/redetiradentes/assets/images/rede-tiradentes.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Boiuna FM",
+      "city": "Boa Vista do Ramos",
+      "state": "MA",
+      "url": "http://172.82.129.210:7062/stream?1604961322808",
+      "img": "https://img.radios.com.br/radio/lg/radio26485_1584122437.jpg",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "FM O Dia",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://shout25.crossradio.com.br:18124/1",
+      "img": "https://www.guiademidia.com.br/imagens/radios/am/fm-o-dia-manaus.png",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "Web Rádio Atual JT",
+      "city": "Boca do Acre",
+      "state": "MA",
+      "url": "http://streaming27.hstbr.net:8338/live?1492084696180",
+      "img": "https://play-lh.googleusercontent.com/2-fW59nQ-k0QRE4ZdoMl2IODG5yQSlpfPCgcW3yKzw7dC8rM_dCoaimgkxg-gxK6kg=s180-rw",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Santo Antônio FM",
+      "city": "Borba",
+      "state": "MA",
+      "url": "https://ssl.bitstreaming.info:8236/;?1604961693535",
+      "img": "https://img.radios.com.br/radio/lg/radio146683_1590667994.jpg",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Barcelos na Net",
+      "city": "Barcelos",
+      "state": "MA",
+      "url": "https://player.srvsh.com.br/proxy/7298",
+      "img": "https://img.radios.com.br/radio/lg/radio35729_1458739850.png",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Castanho FM",
+      "city": "Careiro",
+      "state": "MA",
+      "url": "https://wms5.webradios.com.br:18922/8922",
+      "img": "https://www.radiocastanho.com.br/uploads/images/2019/05/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "94 FM do Povo",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "http://streaming13.hstbr.net:8280/live",
+      "img": "http://www.fm94manaus.com.br/wp-content/uploads/elementor/thumbs/logo-nwn3e5zkvchpl9nn45tbfecwv441398bbmvdmw4am4.png",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Nortão Borba FM",
+      "city": "Borba",
+      "state": "MA",
+      "url": "https://cast4.hoost.com.br:20101/stream",
+      "img": "https://www.portalnortao.com/files/2020/05/portal-nortao-gif.gif",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Difusora FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "http://69.16.236.247:9300/;",
+      "img": "http://www.difusora24h.com/wp-content/uploads/2015/11/logobarradifu.png",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "104 FM",
+      "city": "Humaitá",
+      "state": "MA",
+      "url": "http://179.131.2.217:8000/;",
+      "img": "http://www.fm104humaita.com.br/admin/assets/img/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Cidade FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://server2.webradios.com.br:19168/9168",
+      "img": "https://www.guiademidia.com.br/imagens/radios/am/cidade-fm-manaus.gif",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Palmeira FM",
+      "city": "Manacapuru",
+      "state": "MA",
+      "url": "http://148.72.158.239:8150/live?1604962311828",
+      "img": "https://www.fmpalmeira.com.br/uploads/images/2019/12/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Rio Mar FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://virtues.app:9023/live",
+      "img": "https://radioriomarfm.com.br/wp-content/themes/riomar/img/logo.svg",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "Rural FM",
+      "city": "Tefé",
+      "state": "MA",
+      "url": "https://stream.jmhost.com.br/radio/8340/;stream/1",
+      "img": "https://www.jmradio.com.br/images/banners/222/9c508166105668aa7b8f0b0e.gif",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Atividade FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://servidor38-1.brlogic.com:8070/live",
+      "img": "https://public-rf-upload.minhawebradio.net/2422/featured/49122f3c050a7a41090740b89e52cc59.jpg",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Independência FM",
+      "city": "Maués",
+      "state": "MA",
+      "url": "https://s15.maxcast.com.br:8132/live?id=1257430660523",
+      "img": "https://img.radios.com.br/radio/lg/radio155099_1596566974.jpg",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Conexão Mauá",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://player-ssl.kshost.com.br:9382/live",
+      "img": "https://spaceks.net/sites/radioconexaomaua.com/images/summer/user_1954007746.jpg",
+      "region": "north"
+    },
+    {
+      "id": 19,
+      "name": "Alvorada FM",
+      "city": "Parintins",
+      "state": "MA",
+      "url": "https://svrstream1.svreua.com/streams.php?porta=8016;",
+      "img": "https://img.radios.com.br/radio/lg/radio9184_1551452119.jpg",
+      "region": "north"
+    },
+    {
+      "id": 20,
+      "name": "Toada FM",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://s44.maxcast.com.br:8100/live?id=1604963057267",
+      "img": "https://radiotoada.com/images/c8ae89c2f6460f429cabba917d2bc5ca.png",
+      "region": "north"
+    },
+    {
+      "id": 21,
+      "name": "Alternative FM",
+      "city": "Tefé",
+      "state": "MA",
+      "url": "http://192.99.18.13:8051/live",
+      "img": "http://www.a91fm.com.br/files/2020/01/LOGO-A91-03.jpg",
+      "region": "north"
+    },
+    {
+      "id": 22,
+      "name": "Atitude Web Rádio",
+      "city": "Manaus",
+      "state": "MA",
+      "url": "https://s07.maxcast.com.br:8062/live?id=864159041710",
+      "img": "https://img.radios.com.br/radio/lg/radio55121_1573515000.jpg",
+      "region": "north"
+    },
+    {
+      "id": 23,
+      "name": "Encanto do Rio",
+      "city": "Benjamim Constant",
+      "state": "MA",
+      "url": "https://cast3.hoost.com.br:20145/stream",
+      "img": "https://radioencantodorio.net/files/2019/07/Logo1-Site-Radio-Encanto-do-Rio.png",
+      "region": "north"
+    },
+    {
+      "id": 24,
+      "name": "Gazeta da Tarde",
+      "city": "Iranduba",
+      "state": "MA",
+      "url": "https://s12.maxcast.com.br:8192/live",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/50540.v4.png",
+      "region": "north"
+    },
+    {
+      "id": 25,
+      "name": "Cidade FM DE Ita",
+      "city": "Itacoatiara",
+      "state": "MA",
+      "url": "http://s01.taaqui.org:8316/stream?1604964351137",
+      "img": "https://img.radios.com.br/radio/lg/radio116254_1565786522.png",
+      "region": "north"
+    },
+    {
+      "id": 26,
+      "name": "Já Pnamazônica",
+      "city": "Óbidos",
+      "state": "MA",
+      "url": "https://s28.maxcast.com.br:8010/live?id=1604964435641",
+      "img": "https://img.radios.com.br/radio/lg/radio33878_1457098583.png",
+      "region": "north"
+    },
+    {
+      "id": 27,
+      "name": "Yandê",
+      "city": "São Gabriel Cachoeira",
+      "state": "MA",
+      "url": "https://s36.maxcast.com.br:8262/live?id=1604964541265",
+      "img": "https://radioyande.com/images/fda0349592f3767a8aeb65314b9a7f92.png",
+      "region": "north"
+    }
+  ],
+  "para": [
+    {
+      "id": 1,
+      "name": "Boas Novas",
+      "city": "Belém",
+      "state": "PA",
+      "url": "https://boasnovas.jmvstream.com/stream",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-boas-novas.jpg",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Terra FM",
+      "city": "Conceição do Araguaia",
+      "state": "PA",
+      "url": "https://ssl.srvstm.com:6862/;",
+      "img": "http://www.tonaterratofeliz.com.br/img/client/3.png",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Vale do Xingu FM ",
+      "city": "Altamira",
+      "state": "PA",
+      "url": "https://wms5.webradios.com.br:18972/8972",
+      "img": "http://www.valedoxingu.com.br/wp-content/uploads/2019/06/Group-103.png",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "Educadora FM",
+      "city": "Bragança",
+      "state": "PA",
+      "url": "http://radio.caeteweb.com.br:8074/;?1609188758551",
+      "img": "https://www.fundacaoeducadora.com.br/fec/images/logo4.png",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Atlântico FM",
+      "city": "Castanhal",
+      "state": "PA",
+      "url": "https://s45.maxcast.com.br:8186/live?id=1609189653874",
+      "img": "http://atlanticofm.com.br/images/a174960c87fee5c73a3e3f8fa97ba223.png",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Alternativa FM",
+      "city": "Itaituba",
+      "state": "PA",
+      "url": "http://stm8.painelvox.com:6806/stream?1609190184253",
+      "img": "https://img.radios.com.br/radio/lg/radio9029_1439401367.jpg",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Sant'Ana FM",
+      "city": "Óbidos",
+      "state": "PA",
+      "url": "https://casthttps1.suaradionanet.net/13219/stream",
+      "img": "https://manager.suaradionanet.net/storage/radios/radiosantana/site_basic/N8uBMuYmUBFhOddAkn5sOIVnmTl5V5oaDCKb4uoh.jpeg",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "Litoral FM",
+      "city": "Salinópolis",
+      "state": "PA",
+      "url": "https://streamssl.hospedandosites.com.br/sc_etuye.php",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-litoral-fm-salinopolis.png",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Metropolitana FM",
+      "city": "Belém",
+      "state": "PA",
+      "url": "https://9320.brasilstream.com.br/stream?identifica=4718328570208296000&rand=8422541540673636000",
+      "img": "https://www.metropolitanafm94.com.br/images/logo_1664096723.png",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Guamá FM",
+      "city": "São Miguel do Maguá",
+      "state": "PA",
+      "url": "https://streaming05.zas.media:9174/live?1609343319894",
+      "img": "https://img.radios.com.br/radio/lg/radio27527_1594987332.png",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "Missão Católica",
+      "city": "Garrafão do Norte",
+      "state": "PA",
+      "url": "https://player.nortecast.com/proxy/7010",
+      "img": "https://site.radiomissaocatolica.com.br/themes/default/images/topbanner.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Liberal FM",
+      "city": "Castanhal",
+      "state": "PA",
+      "url": "http://177.105.192.70:9401/stream/3/",
+      "img": "http://fm.radioliberal.com.br/logo_liberal_fm.png",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Você FM",
+      "city": "Redenção",
+      "state": "PA",
+      "url": "https://svrstream1.svreua.com/stream.php?porta=8418",
+      "img": "https://www.vocefm.com.br/img/mascote.png",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "União FM",
+      "city": "Xinguara",
+      "state": "PA",
+      "url": "https://player.painelvox.com/player-ssl/8550/;?1609191641913",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-uniao-fm-xinguara.png",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "Correio FM",
+      "city": "Canaã dos Carajás",
+      "state": "PA",
+      "url": "https://sws.onradio.biz/9664/stream",
+      "img": "https://correiofm.com.br/assets/uploads/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Pérola FM",
+      "city": "Bragança",
+      "state": "PA",
+      "url": "https://svrstream2.svreua.com/stream.php?porta=8262/;&1609188855691",
+      "img": "http://ps-str.srvsite.com/arquivos/3834/cabecalho-3834-20190121105506.png",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Mangue FM",
+      "city": "Curuça",
+      "state": "PA",
+      "url": "https://10.stmip.net/player.php?porta=10584",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/5/62085.v9.png",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Liberal FM",
+      "city": "Belém",
+      "state": "PA",
+      "url": "http://177.105.192.70:9750/liberalfm.mp3",
+      "img": "http://fm.radioliberal.com.br/logo_liberal_fm.png",
+      "region": "north"
+    },
+    {
+      "id": 19,
+      "name": "Educativa FM",
+      "city": "Capanema",
+      "state": "PA",
+      "url": "http://radio3.logicahost.com.br:9938/stream?1609189304278",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-educativa-capanema.jpg",
+      "region": "north"
+    },
+    {
+      "id": 20,
+      "name": "Jarana FM",
+      "city": "Paragominas",
+      "state": "PA",
+      "url": "https://s22.maxcast.com.br:8230/live?id=932114225102",
+      "img": "https://radiojaranafm.net/imagens/78239f35f9e0571b9954358afd0fa944.png",
+      "region": "north"
+    },
+    {
+      "id": 21,
+      "name": "Paraense FM",
+      "city": "Castanhal",
+      "state": "PA",
+      "url": "https://stm01.virtualcast.com.br:8614/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-paraense-fm.png",
+      "region": "north"
+    },
+    {
+      "id": 22,
+      "name": "Regional FM",
+      "city": "Brasil Novo",
+      "state": "PA",
+      "url": "https://whd1.webradios.com.br:18538/8538",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-regional-fm-brasil-novo.png",
+      "region": "north"
+    },
+    {
+      "id": 23,
+      "name": "Floresta FM",
+      "city": "Tucuruí",
+      "state": "PA",
+      "url": "https://s30.maxcast.com.br:8180/live",
+      "img": "https://www.sistemafloresta.com.br/wp-content/themes/sistemafloresta/img/logo-topo.png",
+      "region": "north"
+    },
+    {
+      "id": 24,
+      "name": "Você FM",
+      "city": "Santana do Araguaia",
+      "state": "PA",
+      "url": "https://svrstream1.svreua.com/stream.php?porta=8674",
+      "img": "https://www.vocefm.com.br/img/mascote.png",
+      "region": "north"
+    },
+    {
+      "id": 25,
+      "name": "Metropolitana FM",
+      "city": "Barcarena",
+      "state": "PA",
+      "url": "http://jciy2.srv27.brasilstream.com.br:9320/stream?identifica=6499146852970852000",
+      "img": "http://metropolitanafm94.com.br/images/logo_1664096723.png",
+      "region": "north"
+    },
+    {
+      "id": 26,
+      "name": "Cametá FM",
+      "city": "Cametá",
+      "state": "PA",
+      "url": "http://cast4.hoost.com.br:9359/live?1609189127975",
+      "img": "https://radiocametafm.com/files/2019/06/Camet%C3%A1-FM-Icone-209x82.png",
+      "region": "north"
+    },
+    {
+      "id": 27,
+      "name": "Liberdade FM",
+      "city": "Belém",
+      "state": "PA",
+      "url": "https://s28.maxcast.com.br:8060/live",
+      "img": "http://www.fmliberdadebelem.com.br/novo/wp-content/uploads/2019/11/fmlib_logo-maior-1.png",
+      "region": "north"
+    },
+    {
+      "id": 28,
+      "name": "Cidade FM",
+      "city": "Altamira",
+      "state": "PA",
+      "url": "https://s12.maxcast.com.br:8018/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-cidade-fm-altamira.png",
+      "region": "north"
+    },
+    {
+      "id": 29,
+      "name": "Arara Azul FM",
+      "city": "Paraupebas",
+      "state": "PA",
+      "url": "https://servidor28-2.brlogic.com:8022/live",
+      "img": "https://public-rf-upload.minhawebradio.net/1233/cover/2231bf06d7d9836d67b1d27dc1e08c90.jpg",
+      "region": "north"
+    },
+    {
+      "id": 30,
+      "name": "FM 91",
+      "city": "Marabá",
+      "state": "PA",
+      "url": "http://hts02.kshost.com.br:8840/live",
+      "img": "https://radiofm91.com.br/wp-content/uploads/2020/10/Logo-FM91.png",
+      "region": "north"
+    },
+    {
+      "id": 31,
+      "name": "Garranorte FM",
+      "city": "Garrafão do Norte",
+      "state": "PA",
+      "url": "https://cdn.radioscast.com.br/stream1234?http://stm.nortecast.com:7006/stream",
+      "img": "https://www.radiogarranortefm.com.br/admin/assets/img/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 32,
+      "name": "Cidade Modelo FM",
+      "city": "Castanhal",
+      "state": "PA",
+      "url": "https://node-19.zeno.fm/ymu13dmr91zuv?rj-ttl=5&rj-tok=AAABdqs3zNkAb6T4kCoDsv6uQw",
+      "img": "https://radiocidademodelofm.com.br/wp-content/uploads/2020/03/logo.jpg",
+      "region": "north"
+    },
+    {
+      "id": 33,
+      "name": "Cultura FM",
+      "city": "Novo Progresso",
+      "state": "PA",
+      "url": "https://player-ssl.kshost.com.br:10864/live",
+      "img": "https://spaceks.net/sites/culturafm.minharadioonline.net/images/logo/logo_849494933.png",
+      "region": "north"
+    },
+    {
+      "id": 34,
+      "name": "Energia FM",
+      "city": "Tucuruí",
+      "state": "PA",
+      "url": "http://cast2.hoost.com.br:8176/live?1609191541805",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pa/radio-energia-fm-tucurui.png",
+      "region": "north"
+    },
+    {
+      "id": 35,
+      "name": "94 FM",
+      "city": "Santarém",
+      "state": "PA",
+      "url": "https://s17.maxcast.com.br:8028/live?id=1609191153805",
+      "img": "http://www.tvtapajos.com.br/94fm/logo_radio_1024x500.jpg",
+      "region": "north"
+    },
+    {
+      "id": 36,
+      "name": "Rauland FM",
+      "city": "Belém",
+      "state": "PA",
+      "url": "https://ssl.ifantasy.com.br:6672/;?1609191984784",
+      "img": "http://radiorauland.com.br/admin/assets/img/logo.png",
+      "region": "north"
+    }
+  ],
+  "roraima": [
+    {
+      "id": 1,
+      "name": "93 FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://93fmrr.com.br/wp-content/uploads/2020/07/logo-93fmRR-x1.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "Parente FM ",
+      "city": "Cantã",
+      "state": "RR",
+      "url": "https://cast2.zadax.com.br:8425/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/rr/radio-parente-fm-canta-rr.png",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Paracaima FM",
+      "city": "Paracaima",
+      "state": "RR",
+      "url": "http://servidor34.brlogic.com:8680/live?1611603966696",
+      "img": "https://img.radios.com.br/radio/lg/radio25756_1595343211.jpg",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "Rede Aleluia",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://img.radios.com.br/radio/lg/radio77100_1574958786.jpg",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Estrela de Roraima",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://stm2.cenahost.com.br:7486/;?1611604102188",
+      "img": "https://img.radios.com.br/radio/lg/radio140548_1603116244.jpg",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "AJ Web Rádio",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://server02.ouvir.radio.br:8050/stream?1611604151901",
+      "img": "https://img.radios.com.br/radio/lg/radio33235_1442861883.jpg",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "3 Elementos RR",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://server02.ouvir.radio.br:8050/stream?1611604222420",
+      "img": "https://img.radios.com.br/radio/lg/radio34703_1452186781.jpg",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "Catedral Web Rádio",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://s13.maxcast.com.br:8062/live?1611604310107",
+      "img": "https://img.radios.com.br/radio/lg/radio62461_1516302164.jpg",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Amazônia Gospel",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://node-07.zeno.fm/wv1a2qswveruv?1611604382271=&rj-tok=AAABdzskeZoAbPy8f9SKamwy6g&rj-ttl=5",
+      "img": "https://img.radios.com.br/radio/lg/radio120134_1569590544.jpg",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Anauá FM",
+      "city": "Rorainopólis",
+      "state": "RR",
+      "url": "https://player.mycast.com.br/proxy/7094/;?1594644472406&1611609859710",
+      "img": "https://img.radios.com.br/radio/lg/radio105099_1553773603.jpg",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "Boa Vista Gospel",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://node-29.zeno.fm/t1npq2tm74zuv?1611610036560=&rj-tok=AAABdzt6wzwAgePfSkjd5GZ07A&rj-ttl=5",
+      "img": "https://img.radios.com.br/radio/lg/radio157884_1598980172.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Caburaí FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://server02.ouvir.radio.br:8060/stream?1611610150414",
+      "img": "https://img.radios.com.br/radio/lg/radio25740_1447164605.JPG",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Cidade BV",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://server02.ouvir.radio.br:8070/stream?1611610220688",
+      "img": "https://img.radios.com.br/radio/lg/radio21266_1439401565.jpg",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Cidade Porto FM",
+      "city": "Caracarai",
+      "state": "RR",
+      "url": "https://ssl.livemus.com.br:27212/stream?1611610305299",
+      "img": "",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "Damurida FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://s39.maxcast.com.br:8274/live?1611610441005",
+      "img": "https://img.radios.com.br/radio/lg/radio159790_1600712179.jpg",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Esrelinha Estéreo",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://node-13.zeno.fm/v101s2fd8yzuv?1611610508084=&rj-tok=AAABdzuB9TAAwCBBNJK_FJ7okw&rj-ttl=5",
+      "img": "https://img.radios.com.br/radio/lg/radio166055_1605267382.jpeg",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Habbibe Gospel",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://s01.maxcast.com.br:8158/live?1611610570667",
+      "img": "https://img.radios.com.br/radio/lg/radio172025_1611166420.jpg",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Regi Gospel",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://210.stm-ip.com:7656/;?1611610700931",
+      "img": "https://img.radios.com.br/radio/lg/radio98765_1585138811.png",
+      "region": "north"
+    },
+    {
+      "id": 19,
+      "name": "Rio Branco Web",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://stm1.mycast.com.br:7706/stream?1611610777437",
+      "img": "https://img.radios.com.br/radio/lg/radio25698_1583252681.jpg",
+      "region": "north"
+    },
+    {
+      "id": 20,
+      "name": "Show Alegria",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://server02.ouvir.radio.br:8070/stream?1611610877823",
+      "img": "https://img.radios.com.br/radio/lg/radio36071_1461084911.jpg",
+      "region": "north"
+    },
+    {
+      "id": 21,
+      "name": "Tropical FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://cast62.sitehosting.com.br:8298/live?1611603172148",
+      "img": "https://img.radios.com.br/radio/lg/radio18854_1551092167.png",
+      "region": "north"
+    },
+    {
+      "id": 22,
+      "name": "Silas Produções",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://stm10.stream.s10.pw:7696/;?1611611090286",
+      "img": "https://img.radios.com.br/radio/lg/radio27181_1499084426.png",
+      "region": "north"
+    },
+    {
+      "id": 23,
+      "name": "Sound Gospel",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://centova10.ipstm.net:20828/stream?1611611231231",
+      "img": "https://img.radios.com.br/radio/lg/radio124824_1573467641.jpg",
+      "region": "north"
+    },
+    {
+      "id": 24,
+      "name": "Cometa Web",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://ssl.studiorenascer.com:7010/;?1611611310406",
+      "img": "https://img.radios.com.br/radio/lg/radio56531_1538052726.png",
+      "region": "north"
+    },
+    {
+      "id": 25,
+      "name": "RCP Brasil",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://srv02.lfmultimidiahost.com:7264/;?1611611393288",
+      "img": "https://img.radios.com.br/radio/lg/radio61673_1537550289.png",
+      "region": "north"
+    },
+    {
+      "id": 26,
+      "name": "Rádio RGB",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://node-21.zeno.fm/3k6rs2mg74zuv?1611611473411=&rj-tok=AAABdzuQrw4AsSTQP218BDUkVA&rj-ttl=5",
+      "img": "https://img.radios.com.br/radio/lg/radio153513_1595424862.jpg",
+      "region": "north"
+    },
+    {
+      "id": 27,
+      "name": "Santa Cecília Web",
+      "city": "Canta",
+      "state": "RR",
+      "url": "https://s01.maxcast.com.br:8216/live?1611611560575",
+      "img": "https://img.radios.com.br/radio/lg/radio169750_1607969276.jpeg",
+      "region": "north"
+    },
+    {
+      "id": 28,
+      "name": "Universitária FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "http://radio.ufrr.br:8080/",
+      "img": "http://radio.ufrr.br/img/nrtuufrr.jpg",
+      "region": "north"
+    },
+    {
+      "id": 29,
+      "name": "Monte Roraima",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://whd1.webradios.com.br:18556/8556",
+      "img": "https://img.radios.com.br/radio/lg/radio22925_1494355128.png",
+      "region": "north"
+    },
+    {
+      "id": 30,
+      "name": "Folha FM",
+      "city": "Boa Vista",
+      "state": "RR",
+      "url": "https://cc1.streammaximum.com:2071/stream",
+      "img": "https://www.radiofolha.fm/themes/radiofolha2020/assets/imagens/logo_2020.png",
+      "region": "north"
+    }
+  ],
+  "tocantins": [
+    {
+      "id": 1,
+      "name": "Cidade FM",
+      "city": "Gurupi",
+      "state": "TO",
+      "url": "http://streaming18.hstbr.net:8024/live",
+      "img": "http://redecidadefm.com.br/wp-content/themes/wr_redecidadefm/recursos/img/logomarca2.png",
+      "region": "north"
+    },
+    {
+      "id": 2,
+      "name": "96 FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://live.unitins.br/",
+      "img": "https://96fm.to.gov.br/img/player_logo.png?2019",
+      "region": "north"
+    },
+    {
+      "id": 3,
+      "name": "Vida Araguacema",
+      "city": "Araguacema",
+      "state": "TO",
+      "url": "http://167.114.33.135:8262/stream?1612035009132",
+      "img": "https://img.radios.com.br/radio/lg/radio39903_1473191853.jpg",
+      "region": "north"
+    },
+    {
+      "id": 4,
+      "name": "Tocantins FM",
+      "city": "Araguaína",
+      "state": "TO",
+      "url": "https://s22.maxcast.com.br:8210/live?id=1612035328253",
+      "img": "http://tocantinsfmaraguaina.com.br/images/b4e0e7ab6e7aa5eb0508821261393624.png",
+      "region": "north"
+    },
+    {
+      "id": 5,
+      "name": "Asto FM",
+      "city": "Goiatins",
+      "state": "TO",
+      "url": "https://player.roxcast.com.br/proxy/7486",
+      "img": "https://www.astofm.com.br/adm/zHD/logo/0289347001573765915.png",
+      "region": "north"
+    },
+    {
+      "id": 6,
+      "name": "Top FM",
+      "city": "Araguatins",
+      "state": "TO",
+      "url": "https://servidor16-5.brlogic.com:7358/live?1612036285472",
+      "img": "https://img.radios.com.br/radio/lg/radio168020_1606935332.jpg",
+      "region": "north"
+    },
+    {
+      "id": 7,
+      "name": "Interativa FM",
+      "city": "Maurilandia Do Tocantins",
+      "state": "TO",
+      "url": "http://euroticast5.euroti.com.br:8104/stream?1612047608539",
+      "img": "https://img.radios.com.br/radio/lg/radio32549_1484141084.jpg",
+      "region": "north"
+    },
+    {
+      "id": 8,
+      "name": "Paraíso FM",
+      "city": "Paraíso do Tocantins",
+      "state": "TO",
+      "url": "https://sonicpanel.oficialserver.com/8112/stream",
+      "img": "https://www.paraiso104fm.com.br/wp-content/uploads/2019/08/MANUAL-DA-MARCA-PARAISO-FM-claro-retina.png",
+      "region": "north"
+    },
+    {
+      "id": 9,
+      "name": "Pequi FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://player.roxcast.com.br/proxy/7130",
+      "img": "https://www.pequifm.com.br/adm/zHD/logo/0471828001571750443.png",
+      "region": "north"
+    },
+    {
+      "id": 10,
+      "name": "Abreulândia FM",
+      "city": "Abreulândia",
+      "state": "TO",
+      "url": "https://sonicpanel.oficialserver.com:7129/;",
+      "img": "http://www.abreulandia87fm.com.br/wp-content/uploads/2018/05/topo.png",
+      "region": "north"
+    },
+    {
+      "id": 11,
+      "name": "FM Fenix",
+      "city": "Augustinópolis",
+      "state": "TO",
+      "url": "http://cast2.zadax.com.br:6030/live",
+      "img": "https://img.radios.com.br/radio/lg/radio63657_1530615363.png",
+      "region": "north"
+    },
+    {
+      "id": 12,
+      "name": "Hits FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://sonicpanel.oficialserver.com:7139/stream?1612049307381",
+      "img": "https://www.hitsfmto.com.br/wp-content/uploads/2020/09/logjits3.png",
+      "region": "north"
+    },
+    {
+      "id": 13,
+      "name": "Vale do Tocantins",
+      "city": "Pedro Afonso",
+      "state": "TO",
+      "url": "http://streaming19.hstbr.net:8058/live?1612049381471",
+      "img": "https://img.radios.com.br/radio/lg/radio52051_1541522343.jpg",
+      "region": "north"
+    },
+    {
+      "id": 14,
+      "name": "Líder FM",
+      "city": "Colinas do Tocantins",
+      "state": "TO",
+      "url": "http://stm19.conectastm.com:13272/stream?1612052749315",
+      "img": "https://img.radios.com.br/radio/lg/radio42838_1485811061.jpg",
+      "region": "north"
+    },
+    {
+      "id": 15,
+      "name": "Conexão FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://192.99.4.205:8335/stream?1612049009318",
+      "img": "http://img.radios.com.br/radio/lg/radio111976_1561422495.jpg",
+      "region": "north"
+    },
+    {
+      "id": 16,
+      "name": "Rio Forte",
+      "city": "Centenário",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8774/stream?1612053597199",
+      "img": "https://img.radios.com.br/radio/lg/radio72615_1529583590.jpg",
+      "region": "north"
+    },
+    {
+      "id": 17,
+      "name": "Ribeira FM",
+      "city": "Dacinopólis",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8802/stream?1612053428023",
+      "img": "https://img.radios.com.br/radio/lg/radio72623_1529583850.jpg2",
+      "region": "north"
+    },
+    {
+      "id": 18,
+      "name": "Aleluia FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://img.radios.com.br/radio/lg/radio67999_1563382626.png",
+      "region": "north"
+    },
+    {
+      "id": 19,
+      "name": "Rio Verde",
+      "city": "Araguaçu",
+      "state": "TO",
+      "url": "http://192.99.4.205:8178/stream?1612053931672",
+      "img": "https://img.radios.com.br/radio/lg/radio14664_1439401463.JPG",
+      "region": "north"
+    },
+    {
+      "id": 20,
+      "name": "Sucesso FM",
+      "city": "Tocantinopólis",
+      "state": "TO",
+      "url": "http://server2.webradios.com.br:9182/stream?1612054014094",
+      "img": "https://img.radios.com.br/radio/lg/radio30781_1439401791.jpg",
+      "region": "north"
+    },
+    {
+      "id": 21,
+      "name": "Capital FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://sv11.hdradios.net:6928/stream?1612048938039",
+      "img": "https://img.radios.com.br/radio/lg/radio38421_1580928974.jpg",
+      "region": "north"
+    },
+    {
+      "id": 22,
+      "name": "Jovem Gospel FM",
+      "city": "Araguaína",
+      "state": "TO",
+      "url": "http://74.63.241.110:8038/live?1612049887458",
+      "img": "https://img.radios.com.br/radio/lg/radio50401_1607690134.jpg",
+      "region": "north"
+    },
+    {
+      "id": 23,
+      "name": "Liberdade 104.9 FM",
+      "city": "Cariri Do Tocantins / TO - Brasil",
+      "state": "TO",
+      "url": "https://www.radios.com.br/aovivo/radio-liberdade-1049-fm/72619",
+      "img": "https://img.radios.com.br/radio/lg/radio72619_1529583728.jpg",
+      "region": "north"
+    },
+    {
+      "id": 24,
+      "name": "UFT FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://caqui.uft.edu.br:8000/uftfm?1612049463338",
+      "img": "https://img.radios.com.br/radio/lg/radio37042_1464888148.jpg",
+      "region": "north"
+    },
+    {
+      "id": 25,
+      "name": "Lizarda FM",
+      "city": "Lizarda",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8778/stream?1612052901007",
+      "img": "https://img.radios.com.br/radio/lg/radio136170_1580294330.jpg",
+      "region": "north"
+    },
+    {
+      "id": 26,
+      "name": "Mais FM",
+      "city": "Araguaína",
+      "state": "TO",
+      "url": "http://198.24.165.180:9412/stream?1612052972539",
+      "img": "https://img.radios.com.br/radio/lg/radio56276_1514285621.png",
+      "region": "north"
+    },
+    {
+      "id": 27,
+      "name": "Jovem FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://img.radios.com.br/radio/lg/radio13538_1595257979.png",
+      "region": "north"
+    },
+    {
+      "id": 28,
+      "name": "105.5 FM",
+      "city": "Paraíso do Tocantins",
+      "state": "TO",
+      "url": "https://cast2.hoost.com.br:20094/stream?1612048148466",
+      "img": "https://105fmto.com.br/wa_images/logo_105fm_blue_transparente.png?v=1frqfp7",
+      "region": "north"
+    },
+    {
+      "id": 29,
+      "name": "Web MF1",
+      "city": "Araguatins",
+      "state": "TO",
+      "url": "http://server02.ouvir.radio.br:8060/stream?1612036359091",
+      "img": "https://img.radios.com.br/radio/lg/radio32073_1439401804.jpg",
+      "region": "north"
+    },
+    {
+      "id": 30,
+      "name": "Tocantins FM",
+      "city": "Gurupi",
+      "state": "TO",
+      "url": "https://s35.maxcast.com.br:8142/live?id=1612035945892",
+      "img": "http://tocantinsfmgurupi.com.br/images/4e178f1a48ebf7942148ef686b1a1ba7.png",
+      "region": "north"
+    },
+    {
+      "id": 31,
+      "name": "Rede Conexão FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://192.99.4.205:8335/stream",
+      "img": "http://redeconexaofm.com.br/admin/assets/img/logo.png",
+      "region": "north"
+    },
+    {
+      "id": 32,
+      "name": "Raraguaia FM",
+      "city": "Araguaína",
+      "state": "TO",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://img.radios.com.br/radio/lg/radio13998_1518173859.jpg",
+      "region": "north"
+    },
+    {
+      "id": 133,
+      "name": "Líder FM",
+      "city": "Paraíso do Tocantins",
+      "state": "TO",
+      "url": "http://stm19.conectastm.com:13272/;",
+      "img": "https://www.guiademidia.com.br/imagens/radios/to/radio-lider-fm-colinas.png",
+      "region": "north"
+    },
+    {
+      "id": 34,
+      "name": "Mais FM",
+      "city": "Gurupi",
+      "state": "TO",
+      "url": "https://whd1.webradios.com.br:18516/8516",
+      "img": "https://www.redemaisfm.com.br/tim.php?src=uploads/images/2020/06/logo-02.png&h=100&w=250",
+      "region": "north"
+    },
+    {
+      "id": 35,
+      "name": "Sucesso FM",
+      "city": "Araguatins",
+      "state": "TO",
+      "url": "https://sonicpanel.oficialserver.com:7113/;",
+      "img": "https://sucessofm104.com.br/wp-content/uploads/2020/06/LOGO-SUCESSO-FM.png",
+      "region": "north"
+    },
+    {
+      "id": 36,
+      "name": "Ativa FM",
+      "city": "Guaraí",
+      "state": "TO",
+      "url": "https://servidor33-2.brlogic.com:8224/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/to/radio-ativa-fm-guarai.png",
+      "region": "north"
+    },
+    {
+      "id": 37,
+      "name": "Top FM",
+      "city": "Arapoema",
+      "state": "TO",
+      "url": "https://player.roxcast.com.br/proxy/7386",
+      "img": "https://img.radios.com.br/radio/lg/radio153103_1595246756.png",
+      "region": "north"
+    },
+    {
+      "id": 38,
+      "name": "Impacto FM",
+      "city": "Santa Maria Do Tocantins",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8760/stream?1612049609306",
+      "img": "http://img.radios.com.br/radio/lg/radio72607_1529583277.jpg",
+      "region": "north"
+    },
+    {
+      "id": 39,
+      "name": "São Carlos FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://207.38.87.204:10106/stream?1612049519400",
+      "img": "https://radiosancarlosfm.com.br/wp-content/uploads/2020/12/cropped-San-Carlos-1.png",
+      "region": "north"
+    },
+    {
+      "id": 40,
+      "name": "Nova FM",
+      "city": "Gurupi",
+      "state": "TO",
+      "url": "https://sonicpanel.oficialserver.com:7127/stream?1612053187106",
+      "img": "https://img.radios.com.br/radio/lg/radio27056_1528287557.jpg",
+      "region": "north"
+    },
+    {
+      "id": 41,
+      "name": "Paz FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://srv01.brasilstream.com.br:8030/stream?1612053304256",
+      "img": "https://img.radios.com.br/radio/lg/radio111416_1599676874.jpg",
+      "region": "north"
+    },
+    {
+      "id": 42,
+      "name": "FM Delta",
+      "city": "Bom Jesus do Tocantins",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8750/stream?1612049071051",
+      "img": "https://img.radios.com.br/radio/lg/radio51156_1500896168.jpg",
+      "region": "north"
+    },
+    {
+      "id": 43,
+      "name": "Meio Norte",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "https://webradio.amsolution.com.br/radio/8300/palmas?1612053079093",
+      "img": "https://img.radios.com.br/radio/lg/radio148843_1592309189.jpeg",
+      "region": "north"
+    },
+    {
+      "id": 44,
+      "name": "Atividade FM",
+      "city": "Chapada Da Natividade",
+      "state": "TO",
+      "url": "http://stm13.srvstm.com:8398/stream?1612048695172",
+      "img": "https://img.radios.com.br/radio/lg/radio72611_1529583452.jpg",
+      "region": "north"
+    },
+    {
+      "id": 45,
+      "name": "Anglo FM",
+      "city": "Angico",
+      "state": "TO",
+      "url": "http://stm43.srvstm.com:8808/stream?1612048579165",
+      "img": "https://img.radios.com.br/radio/lg/radio136175_1580294921.png",
+      "region": "north"
+    },
+    {
+      "id": 46,
+      "name": "Canto das Artes FM",
+      "city": "Palmas",
+      "state": "TO",
+      "url": "http://stmbr.com.br:13400/stream?1612048866363",
+      "img": "https://img.radios.com.br/radio/lg/radio135055_1579551448.jpg",
+      "region": "north"
+    }
+  ],
+  "alagoas": [
+    {
+      "id": 1,
+      "name": "Vitório FM",
+      "city": "Palmeira dos Índios",
+      "state": "AL",
+      "url": "http://209.133.210.170:10036/stream.aac",
+      "img": "https://vitoriofm.com.br/wp-content/themes/vitoriofm/assets/images/logo-footer.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "FM 96",
+      "city": "Maceió",
+      "state": "AL",
+      "url": "http://radios.cabreuvoip.com.br:8036/;",
+      "img": "http://www.radio96.com.br/wp-content/uploads/2017/05/002-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Correio FM 91,6",
+      "city": "Delmiro Gouveia",
+      "state": "AL",
+      "url": "https://cast2.hoost.com.br:20122/stream",
+      "img": "https://www.correiodelmiro.com.br/files/2018/11/Logo-do-Site.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Piaçabuçu Web Rádio",
+      "city": "Piaçabuçu",
+      "state": "AL",
+      "url": "http://radio.piacabucu.net:8050/;",
+      "img": "http://piacabucu.net/wp-content/uploads/piacabucu-logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Atalaia FM",
+      "city": "Atalaia",
+      "state": "AL",
+      "url": "https://player.srvaudio.com.br/player-ssl/10272/;?1604779373748",
+      "img": "https://www.radioatalaiafm.com.br/img/1924380082.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "104,9 FM Boca da Mata",
+      "city": "Boca da Mata",
+      "state": "AL",
+      "url": "https://servidor37-5.brlogic.com:8382/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/boca-da-mata-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Litoral FM",
+      "city": "Coruripe",
+      "state": "AL",
+      "url": "http://209.133.210.170:10040/;stream",
+      "img": "http://litoralfmcoruripe.com.br/wp-content/themes/litoralfm/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Delmiro FM",
+      "city": "Delmiro Gouveia",
+      "state": "AL",
+      "url": "https://s05.w3bserver.com:20016/;",
+      "img": "https://radiodelmiro.com.br/wp-content/uploads/2019/12/logodelfm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Cidade FM",
+      "city": "Teotônio Vilela",
+      "state": "AL",
+      "url": "https://cast2.hoost.com.br:20015/stream",
+      "img": "https://www.radiocidade88.com.br/files/2020/01/logo-cidadefm-site.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Progresso FM",
+      "city": "Giral do Ponciano",
+      "state": "AL",
+      "url": "https://player-ssl.kshost.com.br:9568/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-progresso-girau-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "96 FM",
+      "city": "Arapiraca",
+      "state": "AL",
+      "url": "http://96fmarapiraca.com.br:9300/stream?1604790653684",
+      "img": "https://img.radios.com.br/radio/lg/radio8806_1482145551.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Acompec FM",
+      "city": "Joaquim Gomes",
+      "state": "AL",
+      "url": "http://stm50.srvstm.com:19670/;?1604780928711",
+      "img": "http://www.acompecfm.com.br/wp-content/uploads/2018/12/Photo_1542887676780-300x300.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Interativa FM",
+      "city": "Lagoa da Canoa",
+      "state": "AL",
+      "url": "https://ssl.srvstm.com:9890/stream/1/",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-interativa-fm-lagoa-da-canoa-p.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Maragogi FM",
+      "city": "Maragogi",
+      "state": "AL",
+      "url": "http://stm.rodrigoti.com.br:27124/;",
+      "img": "http://maragogifm.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Web Rádio G4 FM",
+      "city": "Boca da Mata",
+      "state": "AL",
+      "url": "https://www.g4fm.com.br/playtocando.php",
+      "img": "https://www.g4fm.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Farol FM",
+      "city": "Palmeira dos Índios",
+      "state": "AL",
+      "url": "http://209.133.210.170:10032/;",
+      "img": "http://www.radiofarol.net/images/logo-farolfm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Caeté FM",
+      "city": "São Miguel dos Campos",
+      "state": "AL",
+      "url": "https://player-ssl.kshost.com.br:9946/live",
+      "img": "https://spaceks.net/sites/radiocaetefm.com/images/equipe/user_1243735827.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Correio FM 90,5",
+      "city": "Joaquim Gomes",
+      "state": "AL",
+      "url": "http://v3.directradios.com:9069/stream,mp3",
+      "img": "http://www.sistemacorreioderadio.com.br/joaquimgomes/90x90_radio_correiojoaquimgomes.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Maribondo FM",
+      "city": "Maribondo",
+      "state": "AL",
+      "url": "http://13.stmip.in:27628/stream",
+      "img": "http://www.maribondofm.com/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Grande Rio FM",
+      "city": "Penedo",
+      "url": "http://hts07.kshost.com.br:10708/stream?1604790743314",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-grande-rio-fm-penedo-al.png",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Educativa",
+      "city": "Maceió",
+      "state": "AL",
+      "url": "https://s15.maxcast.com.br:8022/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-educativa-fm-alagoas.png",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Minador FM",
+      "city": "Minador do Negrão",
+      "state": "AL",
+      "url": "https://player.voxhd.com.br/proxy/7904",
+      "img": "https://www.radiominadorfm.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Casadense FM",
+      "city": "Olho d'Água do Casado",
+      "url": "https://08.stmip.net/player.php?porta=9912",
+      "img": "https://www.casadensefm.com.br/wp-content/uploads/2019/10/cropped-CASADENSE-FM-LOGO.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Palmeira FM",
+      "city": "Palmeira dos Índios",
+      "state": "AL",
+      "url": "http://192.163.244.136:7018/;?1604790795787",
+      "img": "http://palmeirafm.com.br/home/img_radio/logoTopo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Educar FM",
+      "city": "Paulo Jacinto",
+      "state": "AL",
+      "url": "https://player.srvaudio.com.br/player-ssl/9982/;?1604782345192",
+      "img": "https://sintonizeradios.com/wp-content/uploads/2015/11/Educar-104.9-FM-150x150-150x150.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Penedo FM",
+      "city": "Penedo",
+      "state": "AL",
+      "url": "https://ssl.srvstm.com:7056/;",
+      "img": "http://www.penedofm.com.br/assets/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Web Pop",
+      "city": "Pilar",
+      "state": "AL",
+      "url": "https://ssl.srvstm.com:23844/;",
+      "img": "https://www.radiowebpop.com.br/sistema/arquivos/imagens/arte-logo-[06-06-20][12-04-23].png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Tropical FM",
+      "city": "Viçosa",
+      "state": "AL",
+      "url": "https://player.mycast.com.br/proxy/7686/;?1604783667270",
+      "img": "https://pbr-str.srvsite.com/arquivos/7265/cabecalho-7265-20200406214813.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Gazeta FM",
+      "city": "Maceió",
+      "state": "AL",
+      "url": "https://9230.brasilstream.com.br/stream",
+      "img": "https://www.gazetafmmaceio.com.br/incs/img/svg/94.1-logo.svg",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Novo Nordeste",
+      "city": "Arapiraca",
+      "state": "AL",
+      "url": "https://cast2.hoost.com.br:20016/stream",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/arapiraca/radio-novo-nordeste-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Mix FM",
+      "city": "Maceió",
+      "state": "AL",
+      "url": "https://shout25.crossradio.com.br:18048/1;?699364.0193265458",
+      "img": "http://maceio.radiomixfm.com.br/wp-content/uploads/2017/10/logo-mix-rede-137x99.png",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Milênio 90,7 FM",
+      "city": "Santana do Ipanema",
+      "state": "AL",
+      "url": "http://streaming23.hstbr.net:8152/live?1604783156236",
+      "img": "https://img.radios.com.br/radio/lg/radio35175_1455217914.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Cidade FM",
+      "city": "Pilar",
+      "state": "AL",
+      "url": "https://i9suaradio.com:7062/stream/;",
+      "img": "http://www.i9suaradio.com.br/sites/radios/batista/imagens/logo%20ok%20lado.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Independente FM",
+      "city": "Piranhas",
+      "state": "AL",
+      "url": "https://player.srvaudio.com.br/player-ssl/10084/;",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-independente-fm-piranhas-al.gif",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Calabar FM",
+      "city": "Porto Calvo",
+      "state": "AL",
+      "url": "http://104.247.221.130:8108/stream",
+      "img": "http://www.radiocalabarfm.com/upload/configuracao/1/1449013995.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "São Luiz Web Alagoas",
+      "city": "São Luís do Quitunde",
+      "state": "AL",
+      "url": "https://player.srvaudio.com.br/player-ssl/9592/;?1604783785012",
+      "img": "https://pbr-str.srvsite.com/arquivos/4450/cabecalho-4450-20170919125700.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Victoria FM",
+      "city": "Quebrângulo",
+      "state": "AL",
+      "url": "https://ssl.mycast.com.br:7040/;?1604782967193",
+      "img": "https://pbr-str.srvsite.com/arquivos/8227/cabecalho-8227-20200908090213.png",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Cidade FM",
+      "city": "Santana do Ipanema",
+      "state": "AL",
+      "url": "https://ssl.srvstm.com:7838/;",
+      "img": "https://www.guiademidia.com.br/imagens/radios/al/radio-cidade-fm-santana-do-ipanema.gif",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "Gazeta FM",
+      "city": "Arapiraca",
+      "state": "AL",
+      "url": "http://gazetafmarapiraca.com.br/img/logogazetafmArapiraca.png",
+      "img": "http://gazetafmarapiraca.com.br/img/logogazetafmArapiraca.png",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Laje FM",
+      "city": "São José da Laje",
+      "state": "AL",
+      "url": "https://s06.maxcast.com.br:8026/live?id=1369418413287",
+      "img": "https://radiolajefm.com/imagens/f2d25cafeaa70e870835874841dcf11d.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "Tapera 87,9 FM",
+      "city": "São José da Tapera",
+      "state": "AL",
+      "url": "https://s33.maxcast.com.br:8198/live?id=1604783305637",
+      "img": "https://img.radios.com.br/radio/lg/radio32149_1574184337.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "Francês FM",
+      "city": "Maceió",
+      "state": "AL",
+      "url": "http://streaming18.hstbr.net:8006/live?",
+      "img": "http://francesfm.com/images/francesfm.png",
+      "region": "northeast"
+    }
+  ],
+  "bahia": [
+    {
+      "id": 1,
+      "name": "Bahia FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://r13.ciclano.io:15087/stream",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ba/radio-bahia-fm-salvador.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Nova FM",
+      "city": "Barreiras",
+      "state": "BA",
+      "url": "https://player.srvaudio.com.br/player-ssl/11088/;?1604966238949",
+      "img": "https://www.novafmbarreiras.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "GFM 90,1",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://r6.ciclano.io:15062/stream",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/6/15876.v13.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Brasil FM",
+      "city": "Vitória da Conquista",
+      "state": "BA",
+      "url": "https://8533.brasilstream.com.br/stream?identifica=5103017756160165000&rand=10845328434087084000",
+      "img": "http://brasilfm.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Jequié FM",
+      "city": "Jequié",
+      "state": "BA",
+      "url": "http://jequiefm.streams.com.br:7827/stream",
+      "img": "https://tudoradio.com/img/imagecache/90x90_radio_jequiefm897.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Ativa FM",
+      "city": "Eunápolis",
+      "state": "BA",
+      "url": "https://player-ssl.kshost.com.br:10710/live",
+      "img": "https://spaceks.net/sites/ativafm.net/images/logo/logo_248869586.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Piatã FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "http://192.163.193.115:9992/;",
+      "img": "https://www.piatafm.com.br/assets/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Guanambi FM",
+      "city": "Guanambi",
+      "state": "BA",
+      "url": "http://192.99.98.79:8014/&",
+      "img": "https://tudoradio.com/img/imagecache/90x90_radio_96fmguanambi.png",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Itapoan FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://player.lives.srv.br/proxy/9300",
+      "img": "https://www.itapoanfm.com.br/img/logo_itapoan.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Rádio Web Regional",
+      "city": "Teixeira De Freita",
+      "state": "BA",
+      "url": "https://servidor28-4.brlogic.com:8556/live",
+      "img": "https://img.radios.com.br/radio/lg/radio38825_1470250085.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Estação 93 FM",
+      "city": "Jequié",
+      "state": "BA",
+      "url": "https://player.painelvox.com/player-ssl/8454/;",
+      "img": "http://www.estacao93fm.com.br/wp-content/uploads/2016/02/logomarca-93fm-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Jaraguar",
+      "city": "Jacobina",
+      "state": "BA",
+      "url": "http://jaraguarfm-mp3.html5player.acessaradios.com.br:8262/jaraguarfm-mp3",
+      "img": "http://www.radiojaraguar.com.br/design/logo_jaraguar.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Nordeste FM",
+      "city": "Feira de Santana",
+      "state": "BA",
+      "url": "http://server15.livecenter.com.br:9988/stream?1605053857814",
+      "img": "https://tudoradio.com/img/imagecache/90x90_radio_nordestefm953.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Metrópole FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://listen.radioking.com/radio/268642/stream/313975",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ba/radio-metropole-salvador.gif",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Sociedade News",
+      "city": "Feira de Santana",
+      "state": "BA",
+      "url": "https://virtues.app:9166/live",
+      "img": "http://sociedadenewsfm.com.br/wp-content/uploads/2020/01/png_page-300x122.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Sociedade FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://stream1.play.radio.br:8089/RDSociedade/RDSociedadeBA/icecast.audio",
+      "img": "https://www.sociedadeonline.com/Streaming/AudioAM/logo2016-sem-fundo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Cidade Gospel",
+      "city": "Feira da Santana",
+      "state": "BA",
+      "url": "https://ssl.xcast.com.br:12390/;",
+      "img": "https://www.portalcidadegospel.com.br/site/wp-content/uploads/2020/03/logomarca.png",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Nossa Rádio Bahia",
+      "city": "Salvador",
+      "url": "http://8.fm5.com.br:8588/stream?1604965757947",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ba/nossa-radio-salvador-ba.gif",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "FM Vida",
+      "city": "Eunápolis",
+      "state": "BA",
+      "url": "https://player-ssl.kshost.com.br:8602/live",
+      "img": "https://img.radios.com.br/radio/lg/radio14807_1465839229.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Serrana Líder",
+      "city": "Jacobina",
+      "state": "BA",
+      "url": "http://svrstream2.svreua.com:8070/;",
+      "img": "https://i.imgur.com/KaIUWdD.png",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Ilhéus FM",
+      "city": "Ilhéus",
+      "state": "BA",
+      "url": "https://s09.w3bserver.com/radio/8360/radio.mp3/;",
+      "img": "https://ilheusfm.com.br/wp-content/uploads/2020/04/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Arraiana FM",
+      "city": "Porto Seguro",
+      "state": "BA",
+      "url": "http://stm1.streaminghd.net.br:17824/;?1605051361478",
+      "img": "http://www.arraianafm.com.br/img/logo.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Nova Brasil FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://21933.live.streamtheworld.com/NOVABRASIL_SSA_SC",
+      "img": "http://img.novabrasilfm.com.br/image-repository/nbfmftpuser/upload/logos/logo_green_sa.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Betel FM",
+      "city": "Feira de Santana",
+      "state": "BA",
+      "url": "https://ssl.xcast.com.br:12634/;",
+      "img": "http://www.betelfm.com/logo_betel.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Rádio Sucesso",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://live03.dgradios.com/station/8100/sucesso_salvador",
+      "img": "https://tudoradio.com/img/imagecache/90x90_redesucesso_salvador.png",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Excelsior",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://virtues.app:9114/live",
+      "img": "http://redeexcelsior.com.br/wp/wp-content/uploads/2018/07/logo90.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Princesa FM",
+      "city": "Feira de Santana",
+      "state": "BA",
+      "url": "http://148.72.158.239:8165/live",
+      "img": "http://princesafm.com.br/wp-content/uploads/2018/06/mobile.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Porto Brasil FM",
+      "city": "Porto Seguro",
+      "state": "BA",
+      "url": "https://cast4.hoost.com.br:20016/stream",
+      "img": "https://www.portobrasilfm.com/files/2019/04/Logo-R%C3%A1dio-Porto-Brasil-FM-1-e1554816093505.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "106 FM",
+      "city": "Guanambi",
+      "state": "BA",
+      "url": "http://r13.ciclano.io:8867/live",
+      "img": "http://www.radio106.com.br//images/Logo_G.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "95 Alagoinhas FM",
+      "city": "Alagoinhas",
+      "state": "BA",
+      "url": "https://player.lives.srv.br/proxy/9304",
+      "img": "https://www.95fmalagoinhas.com.br/sistema/arquivos/imagens/95fm-card-[30-07-20][00-13-09].png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Clube FM",
+      "city": "Vitória da Conquista",
+      "state": "BA",
+      "url": "https://player-ssl.kshost.com.br:9994/live",
+      "img": "http://www.radioclubeconquista.com.br/site/wp-content/uploads/2018/03/cropped-Cabe%C3%A7alho-Radio-4.png",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Terramar FM",
+      "city": "Itamaraju",
+      "state": "BA",
+      "url": "http://svrstream1.svreua.com:8086/stream?1605049217788",
+      "img": "https://www.terramarfm.com.br/img/terramar-logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Educadora FM",
+      "city": "Salvador",
+      "state": "BA",
+      "url": "https://streaming.educadora.irdeb.ba.gov.br/stream-01",
+      "img": "https://irdeb.ba.gov.br/_novo/img/marcaEducadora.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Povo FM",
+      "city": "Feira de Santana",
+      "state": "BA",
+      "url": "http://s02.transmissaodigital.com:7316/stream?1604966921814",
+      "img": "https://radiopovo.com.br/wp-content/uploads/2019/03/Untitled-5.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Clube FM",
+      "city": "Jacobina",
+      "state": "BA",
+      "url": "http://svrstream2.svreua.com:8640/;",
+      "img": "https://i.imgur.com/F7Lh33a.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Caraípe FM",
+      "city": "Teixeira de Freitas",
+      "state": "BA",
+      "url": "http://05.stmip.net:7808/;?1605050517033",
+      "img": "https://img.radios.com.br/radio/lg/radio11176_1538481198.png",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Mega Rádio VCA",
+      "city": "Vitória da Conquista",
+      "state": "BA",
+      "url": "http://streaming16.hstbr.net:8154/live",
+      "img": "http://www.megaradiovca.com.br/imagens/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Cidade FM",
+      "city": "Jequié",
+      "state": "BA",
+      "url": "http://stm19.oficinadoradio.com.br:8532/stream",
+      "img": "http://www.cidadefmjequie.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "99,7 FM",
+      "city": "Itamaraju",
+      "state": "BA",
+      "url": "http://radio99fm.streams.com.br:7820/stream",
+      "img": "https://tudoradio.com/img/imagecache/90x90_radio_radio99itamaraju.png",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Rádio Web Juazeiro",
+      "city": "Juazeiro",
+      "state": "BA",
+      "url": "https://s41.maxcast.com.br:8470/live?1605050061086",
+      "img": "https://img.radios.com.br/radio/lg/radio15530_1490275493.png",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "Arraial FM",
+      "city": "Porto Seguro",
+      "state": "BA",
+      "url": "https://9089.brasilstream.com.br/stream?identifica=3160764060194970600&rand=2958160262674945000",
+      "img": "https://www.radioarraialfm.com.br/images/logo_1950628134.png",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "Sucesso FM",
+      "city": "Teixeira de Fretes",
+      "state": "BA",
+      "url": "https://lecosucessofm.jmvstream.com/stream",
+      "img": "https://www.radiosucessofm.net/themes/radiosucesso/assets/img/logo4.png",
+      "region": "northeast"
+    },
+    {
+      "id": 43,
+      "name": "Melodia FM",
+      "city": "Vitória da Conquista",
+      "state": "BA",
+      "url": "https://9215.brasilstream.com.br/stream",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ba/vitoria-da-conquista/radio-melodia-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 44,
+      "name": "Vale FM",
+      "city": "Amargosa",
+      "state": "BA",
+      "url": "http://valefm-mp3.html5player.acessaradios.com.br:8272/valefm-mp3",
+      "img": "http://www.fmvale.com.br/design/logo_valefm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 45,
+      "name": "Alternativa FM",
+      "city": "Brumado",
+      "state": "BA",
+      "url": "https://tudo.radio/proxy/158.69.7.169:8080/;",
+      "img": "https://tudoradio.com/img/imagecache/90x90_radio_alternativa979brumadoba.png",
+      "region": "northeast"
+    }
+  ],
+  "ceara": [
+    {
+      "id": 1,
+      "name": "Ibiapaba FM",
+      "city": "São Benedito",
+      "state": "CE",
+      "url": "https://svrstream4.svreua.com/streams.php?porta=8758/;&1605730460426",
+      "img": "https://ps.srvsite.com/arquivos/3143/cabecalho-3143-20191220170647.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Universitária FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://200.129.35.230:8081/;?type=http&nocache=2742",
+      "img": "https://www.radiouniversitariafm.com.br/wp-content/uploads/2014/07/logonew.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Maranguape FM",
+      "city": "Maranguape",
+      "state": "CE",
+      "url": "https://ssl.srvstm.com:9532/1",
+      "img": "http://www.maranguapefm.com.br/imagens/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "89 FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://centova10.ciclanohost.com.br:9019/stream?1605055466095",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-89-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Aquiraz FM",
+      "city": "Aquiraz",
+      "state": "CE",
+      "url": "https://radio.stmsrv.com:13674/;",
+      "img": "https://i.imgur.com/bkgpzKL.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Tropykalia FM",
+      "city": "104.9 Iguatu",
+      "state": "CE",
+      "url": "https://13.stmip.net/player_mp3.php?porta=10934&1605729117059",
+      "img": "http://www.tropykaliafm.com/novoradio/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Jerusalém 97,3 FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://ice33a.crossradio.com.br:14018/1",
+      "img": "http://radiojerusalemfm.com.br/imagens/layout/rd-jerusalem-2019-final3_1544642409.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Aquarela FM",
+      "city": "Canindé",
+      "state": "CE",
+      "url": "http://192.99.44.104:8384/stream?1608067777438",
+      "img": "https://img.radios.com.br/radio/lg/radio24415_1599646040.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Liderança",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+      "img": "http://radiolideranca.com.br/wp-content/uploads/2017/05/o-nome-%C3%A9-lideran%C3%A7a-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Luar do Sertão FM",
+      "city": "Caucaia",
+      "state": "CE",
+      "url": "http://13.stmip.in:28778/stream?1608068575192",
+      "img": "https://img.radios.com.br/radio/lg/radio29559_1506083445.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Central FM",
+      "city": "Quixadá",
+      "state": "CE",
+      "url": "http://stm14.xcast.com.br:8192/stream",
+      "img": "http://www.centralfmquixada.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "FM Dom Bosco",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://10.stmip.net:8706/stream?1595607891859",
+      "img": "https://radiodombosco.com/wp-content/uploads/2019/08/nova-marca-FM-DOM-BOSCO-01-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Planalto FM",
+      "city": "Itapiuna",
+      "state": "CE",
+      "url": "http://streaming01.hstbr.net:8124/live?1605729634319",
+      "img": "https://fmplanaltoitapiuna.com/images/e149d2853eb4ec8e9460abf3fef0e838.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Vida FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://stm7.betelhost.com.br:11824/;?1605056124568",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-vida-fm-fortaleza.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Pacatuba em Foco",
+      "city": "Pacatuba",
+      "state": "CE",
+      "url": "https://ssl.xcast.com.br:11256/;",
+      "img": "https://4.bp.blogspot.com/-4M3Zs4hhrbo/XsFr4-UhoLI/AAAAAAAAGTc/ceZoSTPxY5slZUEhX4RfRAszGHUEPATEgCK4BGAYYCw/s1600/LOGO.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Cidade FM 99,1",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "https://cdn.radioideal.net/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-cidade-fm-fortaleza.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Cultura FM",
+      "city": "Quixadá",
+      "state": "CE",
+      "url": "http://stream.notoris.com.br:8476/;stream/1",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/53280.v12.png",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Cedro Liderança FM",
+      "city": "Cedro",
+      "state": "CE",
+      "url": "https://13.stmip.net/player.php?porta=10920",
+      "img": "https://www.cedrofm.com/uploads/banner-topo/ANmVlO1c1uY4.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Mix Cidade",
+      "city": "Russas",
+      "state": "CE",
+      "url": "https://player-ssl.kshost.com.br:9918/live",
+      "img": "https://spaceks.net/sites/mixcidade.net/images/logo/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Beach Park 102,7",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://www.radioideal.net:8026/;stream/1",
+      "img": "http://radio.beachpark.com.br/wp-content/themes/radio-beach-park/img/logo.svg",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Aquarela FM",
+      "city": "Miraima",
+      "state": "CE",
+      "url": "http://02.stmip.in:7164/;?1605729817111",
+      "img": "https://img.radios.com.br/radio/lg/radio27156_1439401686.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Tempo FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://r13.ciclano.io:8609/live?1605726860830",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-tempo-fm-fortaleza.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Líder 98,7 FM",
+      "city": "Canindé",
+      "state": "CE",
+      "url": "http://stm1.stremus.com.br:7078/stream?1605728096601",
+      "img": "https://img.radios.com.br/radio/lg/radio36094_1554208028.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Expresso FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://stream.7br.com.br:10230/stream?1605726972864",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-expresso-fm-fortaleza.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Cratéus Web Rádio",
+      "city": "Cratéus",
+      "state": "CE",
+      "url": "https://player-ssl.kshost.com.br:10740/live",
+      "img": "https://spaceks.net/sites/crateuswebradio.com.br/images/logo/logo_1993099288.png",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Atlântico Sul FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://142.44.230.74:9026/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-atlantico-sul-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Antena Sul",
+      "city": "Iguatu",
+      "state": "CE",
+      "url": "http://euroticast5.euroti.com.br:8096/;",
+      "img": "http://antenasul.fm.br/radio/wp-content/uploads/2017/06/logotopoesquer.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Lima Campos FM",
+      "city": "Icó",
+      "state": "CE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9262/;?1605728948138",
+      "img": "https://img.radios.com.br/radio/lg/radio28528_1491306934.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Mega Fortaleza",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "http://node-18.zeno.fm/872bn72bswzuv.aac?1605727187726=&rj-tok=AAABddzVmgMAjcveswf8pCdq_Q&rj-ttl=5",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ce/radio-mega-fm-fortaleza.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Mais FM",
+      "city": "Igautu",
+      "state": "CE",
+      "url": "https://securestreams5.autopo.st:1983/;?_=0.7564546008007298",
+      "img": "https://www.maisfm.com/wp-content/uploads/2019/10/logo_maisfm_tr-e1572447451809.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Wem Rádio Tataíra",
+      "city": "Caririaçu",
+      "state": "CE",
+      "url": "http://player-centova.ipstm.net/proxy-full.php?ip=centova8.ipstm.net&port=9430&mount=/stream",
+      "img": "http://webradiotataira.com/arquivos/logo/DARIO_TATAIRA.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Nova Brasil FM",
+      "city": "Fortaleza",
+      "state": "CE",
+      "url": "https://20323.live.streamtheworld.com/NOVABRASIL_FORAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=264f4985-53ab-44ea-e37c-52bb3222bf09",
+      "img": "http://img.novabrasilfm.com.br/image-repository/nbfmftpuser/upload/logos/logo_green_fo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "FM Santa Clara",
+      "city": "Canindé",
+      "state": "CE",
+      "url": "http://stm18.xcast.com.br:8268/stream?1605728256126",
+      "img": "https://img.radios.com.br/radio/md/radio18213_1487936907.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Meio Norte FM",
+      "city": "Camocim",
+      "state": "CE",
+      "url": "http://webradio.amsolution.com.br:8240/camocim",
+      "img": "https://meionortefmcamocim.com.br/wp-content/uploads/2020/09/logo-branca1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Itapipoca 98.7 FM",
+      "city": "Itapipoca",
+      "url": "http://04.stmip.in:28386/;?1608069774908",
+      "img": "https://img.radios.com.br/radio/lg/radio30507_1496232239.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Sol 87,9",
+      "city": "Solonópole",
+      "state": "CE",
+      "url": "https://stream.jmhost.com.br/radio/8150/radio?1583171399/;stream/1",
+      "img": "https://www.jmradio.com.br/images/logomarcas/202/60d9390874f7bd323a6efdada.jpg",
+      "region": "northeast"
+    }
+  ],
+  "maranhao": [
+    {
+      "id": 1,
+      "name": "Educativa FM",
+      "city": "Pedreiras",
+      "state": "MA",
+      "url": "http://srv11.ipstm.net:24958/stream?1609018789609",
+      "img": "https://1.bp.blogspot.com/-POND0JcWqEE/XYyYjS4Ah3I/AAAAAAAAWAE/-WMOcVSHXuExY3Su4v9NkBjdoIa7pucHQCLcBGAsYHQ/s1600/educativapedreirasma.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Líder FM",
+      "city": "Imperatriz",
+      "state": "MA",
+      "url": "https://servidor39.brlogic.com:8212/live",
+      "img": "https://l102.com.br/wp-content/uploads/2018/04/logo-2.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Web Rádio FM do Povo",
+      "city": "Igarapé Grande",
+      "state": "MA",
+      "url": "http://stm10.conectastm.com:20442/;",
+      "img": "https://img.radios.com.br/radio/lg/radio22179_1479499878.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Vôo Livre FM",
+      "city": "Água Doce do Maranhão",
+      "state": "MA",
+      "url": "https://node-11.zeno.fm/nkggqp35qnruv?rj-ttl=5&rj-tok=AAABdqDWYxEAPoDHnGyhrV8WgA",
+      "img": "https://2.bp.blogspot.com/--NgWePxx4-I/XxEIcmOgeLI/AAAAAAAAAYE/WAJi6eT8cjAUnIInBAxeRLdbmiwxBD85gCK4BGAYYCw/s1600/20200716_230505.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Mirante FM",
+      "city": "Santa Inês",
+      "state": "MA",
+      "url": "https://player-ssl.painelstream.net:8094/live",
+      "img": "https://assets.imirante.com/2.0/mirantefm/santa-ines/imagens/logo-mirantefm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Difusora FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://ssl.zoeweb.net/proxy/difusora94?mp=/stream",
+      "img": "https://cdn-wp.cadena.com.br/radiotvdifusora-saoluis/uploads/2020/06/09103608/logo-difusora-site-OK.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "92,3 FM",
+      "city": "São José do Ribamar",
+      "state": "MA",
+      "url": "https://centova.svdns.com.br:20024/stream",
+      "img": "https://www.r92.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Marconi FM",
+      "city": "Açailândia",
+      "state": "MA",
+      "url": "http://192.99.188.208:4457/stream?1609025506456",
+      "img": "https://tudoradio.com/img/imagecache/90x90_5a81d9420ea53.png",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Alvorada FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://player.srvaudio.com.br/player-ssl/10102",
+      "img": "http://www.alvoradaslz.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Shalom FM",
+      "city": "Balsas",
+      "state": "MA",
+      "url": "https://player.xcast.com.br/proxy/9082",
+      "img": "https://shalomfmbalsas.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Mais FM",
+      "city": "São José do Ribamar",
+      "state": "MA",
+      "url": "http://zoeweb.net:8122/;",
+      "img": "http://www.mais.fm.br/wp/wp-content/uploads/2018/11/Mais-2.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Mirante FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://mirante2.jmvstream.com/stream?1609013497271",
+      "img": "https://assets.imirante.com/3.1/mirantefm/imagens/logo-mirantefm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Cidade FM",
+      "city": "Carolina",
+      "state": "MA",
+      "url": "http://t2ss5.srv27.brasilstream.com.br:9213/stream?1609024287043",
+      "img": "https://img.radios.com.br/radio/lg/radio11384_1495720550.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Alternativa FM",
+      "city": "Pedreiras",
+      "state": "MA",
+      "url": "http://stm45.conectastm.com:7496/stream?1609023531369",
+      "img": "https://img.radios.com.br/radio/lg/radio163480_1603906294.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Rio Corda FM",
+      "city": "Barra do Corda",
+      "state": "MA",
+      "url": "https://live.paineldj.com.br/proxy/riocorda?mp=/stream",
+      "img": "https://www.riocordafm.com.br/wp-content/uploads/2020/05/logodaradio1arrrrr.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Difusora FM",
+      "city": "Imperatriz",
+      "state": "MA",
+      "url": "https://ssl.zoeweb.net/proxy/difusora105?mp=/stream",
+      "img": "https://cdn-wp.cadena.com.br/difusora-imperatriz/uploads/2020/08/03103408/Logo_Site_Difusora105.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Joselândia Web",
+      "city": "Joselândia",
+      "state": "MA",
+      "url": "http://stm3.voxtreaming.com.br:6814/stream",
+      "img": "http://joselandiaweb.live/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Nova FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "http://cast3.hoost.com.br:9071/live",
+      "img": "https://www.novafmslz.com/files/2020/09/WhatsApp-Image-2020-09-21-at-14.44.17-e1601306675319.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Sinal Verde FM",
+      "city": "Caxias do Maranhão",
+      "state": "MA",
+      "url": "http://zoeweb.net:8019/stream?1609016874939",
+      "img": "https://portalsinalverde.com/img/logo_ori.png?",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Mirante FM",
+      "city": "Imperatriz",
+      "state": "MA",
+      "url": "http://audio.nocbit.com:8002/;",
+      "img": "https://assets.imirante.com/2.0/mirantefm/imperatriz/imagens/logo-mirantefm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Cidade FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "http://server3.webradios.com.br:9398/stream?1609013916686",
+      "img": "https://img.radios.com.br/radio/lg/radio11436_1543426878.png",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Liberdade FM",
+      "city": "Estreito",
+      "state": "MA",
+      "url": "http://sws.onradio.biz:8018/stream?1609017173239",
+      "img": "https://www.radioliberdadefm.net/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Açai FM Sorriso",
+      "city": "Açailândia",
+      "state": "MA",
+      "url": "https://servidor35-4.brlogic.com:8482/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/ma/acai-fm-sorriso-acailandia.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Esperança FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://ssl.xcast.com.br:7940/stream?1609014002043",
+      "img": "https://img.radios.com.br/radio/lg/radio13114_1464778148.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Imperatriz Gospel",
+      "city": "Imperatriz",
+      "state": "MA",
+      "url": "https://player.srvaudio.com.br/player-ssl/8348/;?1609017995396",
+      "img": "https://img.radios.com.br/radio/lg/radio25549_1439401624.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "FS Web Rádio",
+      "city": "Água Doce do Maranhão",
+      "url": "https://node-12.zeno.fm/hhbrbhssrbruv?rj-ttl=5&rj-tok=AAABdqDUXOQAKxrMKqWz26kOsw",
+      "img": "https://4.bp.blogspot.com/-RhftCiaYiNI/XwIyI828Y1I/AAAAAAAAA1k/bZl6wdV1s3w5y1GUI-Xx51-JQ6d_8qDPgCK4BGAYYCw/s1600/20200705_165628.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "FM 106,9 Universidade",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://s26.maxcast.com.br:8280/live?id=1609014258180",
+      "img": "http://www.universidadefm.ufma.br/wp-content/uploads/2019/01/LOGO.RADIUN-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Web Rádio",
+      "city": "Alto Alegre",
+      "state": "MA",
+      "url": "https://player-ssl.kshost.com.br:8488/live",
+      "img": "https://spaceks.net/sites/webradioasuaradiodanet.com.br/images/logo/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Bacanga FM",
+      "city": "São Luiz",
+      "state": "MA",
+      "url": "https://player.stm-ipbr.com/ssl/6682?1609014493630",
+      "img": "https://img.radios.com.br/radio/lg/radio12155_1439401440.JPG",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "FM Esperança",
+      "city": "Açailândia",
+      "state": "MA",
+      "url": "http://radio.server6.com.br:9990/;?1609015250850",
+      "img": "https://pbr-str.srvsite.com/arquivos/4239/cabecalho-4239-20181220071109.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Web Rádio Voz de Arari",
+      "city": "Arari",
+      "state": "MA",
+      "url": "https://servidor31-5.brlogic.com:8078/live",
+      "img": "https://img.radios.com.br/radio/lg/radio35994_1522092527.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Diamantina FM ",
+      "city": "overnador Edison Lobão",
+      "state": "MA",
+      "url": "https://s13.maxcast.com.br:8258/live?id=1296278592859",
+      "img": "https://fmdiamantina.com.br/imagens/f0334899e9425b7c29a20b4932e49f06.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Aliança FM",
+      "city": "Grajaú",
+      "state": "MA",
+      "url": "https://servidor40-5.brlogic.com:8164/live",
+      "img": "https://public-rf-upload.minhawebradio.net/2600/cover/8ec81dc9c19266422ab76b60c8b33eb1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Terra FM",
+      "city": "Imperatriz",
+      "state": "MA",
+      "url": "http://servidor30.brlogic.com:8622/live?1609017761548",
+      "img": "http://fmterra.com.br/static/imgs/fmterra.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Cultural FM",
+      "city": "Lago da Pedra",
+      "state": "MA",
+      "url": "https://s16.maxcast.com.br:8156/live?id=581227730556",
+      "img": "https://culturalfmonline.com/imagens/a9883ea19baa0111929cbf63a6e14c47.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Web Rádio Mirandense Brasil",
+      "city": "Miranda do Norte",
+      "state": "MA",
+      "url": "https://s30.maxcast.com.br:8160/live?id=1609018490338",
+      "img": "https://img.radios.com.br/radio/lg/radio25978_1594237660.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "FM Cidade",
+      "city": "Pedreiras",
+      "state": "MA",
+      "url": "https://servidor40-4.brlogic.com:8040/live",
+      "img": "https://img.radios.com.br/radio/lg/radio11445_1579688004.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Pericumã FM",
+      "city": "Pinheiro",
+      "state": "MA",
+      "url": "http://cast.hoost.com.br:9043/;",
+      "img": "http://www.sistemapericuma.com.br/files/2016/11/LOGO_PERICUMA.png",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "Porto Franco FM",
+      "city": "Porto Franco",
+      "state": "MA",
+      "url": "https://ssl.srvstm.com:7214/stream",
+      "img": "https://www.portofrancofmonline.com/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Rádio Centronorte FM",
+      "city": "Presidente Dutra",
+      "state": "MA",
+      "url": "https://servidor40-3.brlogic.com:8692/live",
+      "img": "https://img.radios.com.br/radio/lg/radio46466_1494352504.JPG",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "Santa Rita FM",
+      "city": "Santa Rita",
+      "state": "MA",
+      "url": "https://server2.webradios.com.br:19156/9156",
+      "img": "https://www.fmsantarita.com.br/uploads/images/2018/04/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "Nova Link FM",
+      "city": "São Bento",
+      "state": "MA",
+      "url": "https://cast2.hoost.com.br:20089/stream",
+      "img": "https://www.novalinkfm.com/files/2020/07/LOGO-SITE-2020.png",
+      "region": "northeast"
+    },
+    {
+      "id": 43,
+      "name": "FC FM",
+      "city": "Codó",
+      "state": "MA",
+      "url": "http://uujzq.srv27.brasilstream.com.br:9956/stream?identifica=4988912838669286000",
+      "img": "http://radiofcfm.com.br/images/logo_1854700505.png",
+      "region": "northeast"
+    },
+    {
+      "id": 44,
+      "name": "Sound FM",
+      "city": "Cinelândia",
+      "state": "MA",
+      "url": "https://player.stm-ipbr.com/ssl/6706",
+      "img": "https://radiosoundfm.com.br/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 45,
+      "name": "Renascer FM",
+      "city": "Carolina",
+      "state": "MA",
+      "url": "http://stm9.srvaudio.com.br:10650/stream?1609024156741",
+      "img": "https://img.radios.com.br/radio/lg/radio14406_1524221024.jpg",
+      "region": "northeast"
+    }
+  ],
+  "paraiba": [
+    {
+      "id": 1,
+      "name": "Ind FM",
+      "city": "Serra Branca",
+      "state": "PB",
+      "url": "http://stm5.painelvox.com:6770/stream?1609339022999",
+      "img": "https://img.radios.com.br/radio/lg/radio24738_1598643905.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Mix FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:19016/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.mixcg.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Zumbi dos Palmares",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://ssl.srvstm.com:8178/;",
+      "img": "http://3.bp.blogspot.com/-8OkaGRS4GGg/WAdlwiST9DI/AAAAAAAAIv8/rLdQEwLz_YAXsY5h-LvdetMH222acskqACK4B/s1600/Tarja_radio13.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Santa Maria FM",
+      "city": "Monteiro",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18090/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.monteiro.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Arapuan FM",
+      "city": "Patos",
+      "state": "PB",
+      "url": "http://centova6.ciclanohost.com.br:9312/;stream.nsv",
+      "img": "http://www.arapuanfm.com.br/2019/images/site/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Talismã FM",
+      "city": "Belém",
+      "state": "PB",
+      "url": "http://euroticast5.euroti.com.br:8330/;",
+      "img": "http://www.talisma993fm.com.br/assets/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Contelação FM",
+      "city": "Guarabira",
+      "state": "PB",
+      "url": "http://r13.ciclano.io:8143/stream.aac?1609337002502",
+      "img": "https://static.wixstatic.com/media/be9c45_2ed26b70bf6e40e2b754050802952a7b~mv2.png/v1/fill/w_773,h_435,al_c,q_85,usm_0.66_1.00_0.01/constelacao_camera02.webp",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Cabo Branco FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "http://audio.cabobranco.tv.br:8000/cbfm",
+      "img": "http://cabobranco.fm.br/wp-content/themes/novo_cabobrancofm/images/logo_novo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Correio do Agreste FM",
+      "city": "Queimadas",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18094/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.queimadas.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Liberdade FM",
+      "city": "Pombal",
+      "state": "PB",
+      "url": "http://centova14.ciclanohost.com.br:8180/stream?1609339111605",
+      "img": "https://img.radios.com.br/radio/lg/radio13605_1572894041.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Monteiro FM",
+      "city": "Monteiro",
+      "state": "PB",
+      "url": "https://s45.maxcast.com.br:8064/live?1609337264232",
+      "img": "http://monteirofm.com.br/wp-content/uploads/2019/12/logo-monteirook.fw_.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "FM Itatiunga",
+      "city": "Patos",
+      "state": "PB",
+      "url": "https://str1.streamhostpg.com.br:8100/stream",
+      "img": "http://102fmpatos.com.br/wp-content/themes/itatiunga/imagens/logo-radio-itatiunga-102-fm-patos.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Maringá FM",
+      "city": "Pombal",
+      "state": "PB",
+      "url": "https://ssl.srvstm.com:6672/shoutcast?ver=555020",
+      "img": "https://www.maringa98fm.com.br/wp-content/uploads/2017/03/logo-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Sucesso FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://r6.ciclano.io:15056/stream/;stream.nsv",
+      "img": "https://www.sucesso92fm.com.br/images/uploaded/site/63c46f01a6b110f8bd3228f3b807e53a.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Solidária FM",
+      "city": "São Bento",
+      "state": "PB",
+      "url": "https://sonicpanel.oficialserver.com/8064/stream",
+      "img": "https://radiosolidariafm.com.br/views/site/partitions/header/logo_radio_21_anos.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Max FM",
+      "city": "Souza",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18096/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.max.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Poço Dantas FM",
+      "city": "Poço Dantas",
+      "state": "PB",
+      "url": "http://stm10.conectastm.com:7534/stream?1609337685460",
+      "img": "https://img.radios.com.br/radio/lg/radio14298_1528457519.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "98 FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18066/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.98.png",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Taperoá FM",
+      "city": "Taperoá",
+      "state": "PB",
+      "url": "https://player-ssl.kshost.com.br:8850/live",
+      "img": "https://spaceks.net/sites/radiotaperoafm.com.br/images/logo/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Mix FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18070/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.mix.png",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Opção FM",
+      "city": "Pombal",
+      "state": "PB",
+      "url": "http://sv10.hdradios.net:12374/;?1609337907083",
+      "img": "http://portalsertaonoticias.com/wp-content/uploads/2019/03/104.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "98 FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18078/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.98.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Arapuan FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "http://centova6.ciclanohost.com.br:9104/;stream.nsv",
+      "img": "http://www.arapuanfm.com.br/2019/images/site/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Lance FM",
+      "city": "Patos",
+      "state": "PB",
+      "url": "https://player.xcast.com.br/proxy/6790",
+      "img": "http://www.lancefm.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "São Bento FM",
+      "city": "São Bento",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18174/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.saobento.png",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Cultura FM",
+      "city": "Bom Sucesso",
+      "state": "PB",
+      "url": "https://ssl.srvstm.com:14796/1",
+      "img": "https://www.104fmcultura.com/logocultura.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Guarabira FM",
+      "city": "Guarabira",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18082/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.guarabira.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Arapuan FM",
+      "city": "Cajazeiras",
+      "state": "PB",
+      "url": "http://centova6.ciclanohost.com.br:9346/;stream.nsv",
+      "img": "http://www.arapuanfm.com.br/2019/images/site/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Correio da Serra FM",
+      "city": "Solânea",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18086/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.solanea.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Correio do Vale FM",
+      "city": "Mamanguape",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18088/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.mamanguape.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Itabaiana FM",
+      "city": "Itabaiana",
+      "state": "PB",
+      "url": "https://shout25.crossradio.com.br:18084/live",
+      "img": "https://www.correiosat.com.br/imagens/radios.itabaiana.png",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Arapuan FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "http://centova6.ciclanohost.com.br:9518/stream",
+      "img": "http://www.arapuanfm.com.br/2019/images/site/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Tabajara FM",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://ssl.hdradios.net:7844/stream",
+      "img": "https://radiotabajara.pb.gov.br/++theme++portal-tabajara-dev/assets_site/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Souza FM",
+      "city": "Souza",
+      "state": "PB",
+      "url": "https://player-ssl.kshost.com.br:12844/live",
+      "img": "https://spaceks.net/sites/sousa104fm.com.br/images/logo/logo_585468374.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Patamuté FM",
+      "city": "Cajazeiras",
+      "state": "PB",
+      "url": "http://paineldj.com.br:8146/stream?1609336613744",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pb/cajazeiras/radio-patamute-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Caturité FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "https://radio.saopaulo01.com.br:10976/;stream.nsv",
+      "img": "http://www.radiocaturite.com.br/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Jornal do Nordeste",
+      "city": "Cabedelo",
+      "state": "PB",
+      "url": "http://server07.srvsh.com.br:7538/live",
+      "img": "http://radiojornaldonordeste.com/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Panorâmica FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "http://live.panoramica.fm.br:10002/live",
+      "img": "https://panoramica.fm.br/themes/custom/panoramicafm/logo.svg",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "Serra Branca FM",
+      "city": "Serra Branca",
+      "state": "PB",
+      "url": "https://serrabrancafm.jmvstream.com/live?1609338135505",
+      "img": "http://serrabrancafm.com.br/novo/assets/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Espinharas FM",
+      "city": "Patos",
+      "state": "PB",
+      "url": "https://ssl.srvstm.com:9666/;",
+      "img": "https://www.radioespinharas.com.br/imagens/logo.svg",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "Difusora FM",
+      "city": "Cabuti",
+      "state": "PB",
+      "url": "https://ssl.xcast.com.br:10498/;",
+      "img": "https://www.difusoradecubati.com.br/home/images/Logotipos/logo_difusora.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "Areia FM",
+      "city": "Areia",
+      "state": "PB",
+      "url": "https://servidor36-2.brlogic.com:8158/live",
+      "img": "https://public-rf-upload.minhawebradio.net/2343/cover/baadbfaa502b81e3575b207fa8d8c539.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 43,
+      "name": "Campina FM",
+      "city": "Campina Grande",
+      "state": "PB",
+      "url": "https://campinafm2.jmvstream.com/stream",
+      "img": "http://campinafm.com.br/portal/wp-content/uploads/2015/03/logo-42anos.png",
+      "region": "northeast"
+    },
+    {
+      "id": 44,
+      "name": "1001 FM Notícias",
+      "city": "João Pessoa",
+      "state": "PB",
+      "url": "https://player.srvaudio.com.br/player-ssl/10562/;?1609335272279",
+      "img": "https://pa-str.srvsite.com/arquivos/1687/cabecalho-1687-20190709224932.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 45,
+      "name": "Educativa FM",
+      "city": "Souza",
+      "state": "PB",
+      "url": "http://stm10.conectastm.com:9646/stream?1609338765560",
+      "img": "https://www.educativa105fm.com/admin/assets/img/logo.png",
+      "region": "northeast"
+    }
+  ],
+  "pernambuco": [
+    {
+      "id": 1,
+      "name": "Nova FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://20323.live.streamtheworld.com/NOVABRASIL_RECAAC.aac?tdsdk=js-2.9&lat=-23.2&long=-50.6&pname=TDSdk&pversion=2.9&banners=none&sbmid=ae7709fd-5ea9-4be7-ed73-b64f57b0e091",
+      "img": "http://img.novabrasilfm.com.br/image-repository/nbfmftpuser/upload/logos/logo_green_re.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Pajeu FM",
+      "city": "Afogados da Ingazeira",
+      "state": "PE",
+      "url": "https://server3.webradios.com.br:19434/9434",
+      "img": "http://www.radiopajeu.com.br/portal/wp-content/uploads/2019/10/logo-site.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Grande Serra FM",
+      "city": "Oiricuri",
+      "state": "PE",
+      "url": "https://streaming.rmpsite.com.br/rgsouricuri/;",
+      "img": "https://radiograndeserra.com.br/wp-content/uploads/2020/02/radio-grande-serra-inicio.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Jovem FM",
+      "city": "Capoeiras",
+      "state": "PE",
+      "url": "https://ssl.xcast.com.br:13040/;",
+      "img": "http://jovemcapfm.com.br/assets/uploads/logo.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Difusora Metropolitana FM",
+      "city": "Escada",
+      "state": "PE",
+      "url": "https://player-ssl.kshost.com.br:8342/live",
+      "img": "https://spaceks.net/sites/difusorametropolitana.com/images/logo/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Recife FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://ssl.zoeweb.net/proxy/recifefm?mp=/stream",
+      "img": "https://www.recifefm.com.br/wp-content/uploads/2018/04/Recife_Prancheta-1-c%C3%B3pia-96x68.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Goiana FM",
+      "city": "Goiana",
+      "state": "PE",
+      "url": "http://s02.transmissaodigital.com:6718/;",
+      "img": "http://www.radiogoiana.com.br/wp-content/themes/brauliosilveira/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Jornada FM",
+      "city": "Jaboatão dos Guararapes",
+      "state": "PE",
+      "url": "https://servidor39-2.brlogic.com:8188/live",
+      "img": "https://img.radios.com.br/radio/lg/radio129204_1575308978.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Grande Rio FM",
+      "city": "Petrolina",
+      "state": "PE",
+      "url": "http://shout35.crossradio.com.br:8058/1;?1609360218",
+      "img": "https://www.granderiofm.com.br/wp-content/uploads/2020/06/GRFM-1-300x83.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Salgueiro FM",
+      "city": "Salgueiro",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9144/;?1609360636651",
+      "img": "https://pbr-str.srvsite.com/arquivos/5206/cabecalho-5206-20180127144624.png",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Clube FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://radio.saopaulo01.com.br:10913/stream",
+      "img": "http://www.clubepe.fm/img/logo-clube.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Conexão Catimbau",
+      "city": "Alcoverde",
+      "state": "PE",
+      "url": "https://servidor31-2.brlogic.com:8014/live",
+      "img": "https://www.radiosonlinebrasil.com.br/radios/pe/conexao-catimbau/radio-logo.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Alternativa FM",
+      "city": "Agrestina",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9266/;?1609354404726",
+      "img": "https://img.radios.com.br/radio/lg/radio9028_1505825184.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Cordeiro",
+      "city": "Santa Cruz do Capibaribe",
+      "state": "PE",
+      "url": "https://player.cordeiroplasticos.com.br/proxy/7008",
+      "img": "https://static.wixstatic.com/media/225d3d_740697eafbea4bd4b73d7cca11ba662c~mv2.png/v1/fill/w_610,h_613,al_c,lg_1,q_90/BR-RADIOS-LIVE512x512.webp",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Líder do Vale FM",
+      "city": "Serra Talhada",
+      "state": "PE",
+      "url": "http://svrstream1.svreua.com:8164/stream?1609361241214",
+      "img": "https://www.liderdovalefm.com.br/site/wp-content/uploads/2020/05/logo-op-01-D.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Evangélica FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "http://directradios.net:8343/stream2&amp;",
+      "img": "https://www.radioevangelicafm.com.br/public/imgs/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Farol FM",
+      "city": "Taquaritinga do Norte",
+      "state": "PE",
+      "url": "https://cdn.painelstreaming.com.br:27118/;",
+      "img": "https://farolfm.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Inajá FM",
+      "city": "Inajá",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9290/;?1609359128890",
+      "img": "https://pbr-str.srvsite.com/arquivos/8347/parceiros-96-20140626112020.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Toritama FM",
+      "city": "Toritama",
+      "state": "PE",
+      "url": "https://sonicpanel.oficialserver.com/8036/stream",
+      "img": "https://cdn-radiotime-logos.tunein.com/s125193q.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Paulista FM",
+      "city": "Paulista",
+      "state": "PE",
+      "url": "https://servidor33-2.brlogic.com:8116/live",
+      "img": "https://public-rf-upload.minhawebradio.net/2531/editor/2d3e72edd13c659e72344d0d82e22c0f.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Hits FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "http://live.hitsrecife.com.br:8516/live",
+      "img": "https://img.radios.com.br/radio/lg/radio13957_1583927295.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Independente FM",
+      "city": "Arcoverde",
+      "state": "PE",
+      "url": "https://s11.maxcast.com.br:8122/live?id=1609354849618",
+      "img": "https://lirp-cdn.multiscreensite.com/fa793572/dms3rep/multi/opt/logo+nova-320w.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "87 FM",
+      "city": "Garanhuns",
+      "state": "PE",
+      "url": "https://sv-exodo.advendns.org:20011/stream?1568240798077&1609358613721",
+      "img": "https://www.fm87.com.br/v3/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Capital FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://player.stremus.com.br/proxy/7206/;?1609353709203",
+      "img": "https://pa-str.srvsite.com/arquivos/2519/cabecalho-2519-20181206212321.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Web Rádio SAP",
+      "city": "Pesqueira",
+      "state": "PE",
+      "url": "https://s01.w3bserver.com:20019/live",
+      "img": "https://www.sappesqueira.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Tropical FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "http://198.24.165.180:9762/;?1609353794637",
+      "img": "https://www.tropicalfmpe.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Supapo FM",
+      "city": "Angelim",
+      "state": "PE",
+      "url": "http://srv1.lwhosting.com.br:7046/;stream/1",
+      "img": "http://radiosupapo.com.br/uploads/galery/2016/11/logo-radiosupapo1479340640.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Vilabela FM",
+      "city": "Serra Talhada",
+      "state": "PE",
+      "url": "https://audio01.stmserver.com/radio/8010/;",
+      "img": "https://img.radios.com.br/radio/lg/radio30506_1602621922.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Nova Timbaúba FM",
+      "city": "Timbaúba",
+      "state": "PE",
+      "url": "http://radio.novatimbaubafm.com:8204/live",
+      "img": "http://www.novatimbaubafm.com/wp-content/uploads/2017/09/logo1_web-300x92.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Buíque FM",
+      "city": "Buíque",
+      "state": "PE",
+      "url": "https://virtues.app:9109/live",
+      "img": "https://buiquefm.com.br/wp-content/uploads/elementor/thumbs/LOGO-nw35y814oitl2pdihypokdxg5rllwzrrbwcg5wr8aa.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Alternativa FM",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://player-ssl.kshost.com.br:11574/live",
+      "img": "https://play-lh.googleusercontent.com/eBRlYICGNV-q9fi04P9t8ZVnlGIvqNtmUEA5l1CyoyiVlyKNLosN1EpxkTbFlTidGQ=s180-rw",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Cidade FM",
+      "city": "Tabira",
+      "state": "PE",
+      "url": "https://s25.maxcast.com.br:8174/live?id=1020171721163",
+      "img": "https://cidadefmtabira.com.br/imagens/6586a3acd5dc4b13183de95becbdda27.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Santa Maria",
+      "city": "Santa Maria da Boa Vista",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/8334/;?1609361086515",
+      "img": "https://img.radios.com.br/radio/lg/radio68495_1524839588.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Grande Serra FM",
+      "city": "Araripina",
+      "state": "PE",
+      "url": "https://streaming.rmpsite.com.br/rgsararipina/;",
+      "img": "https://radiograndeserra.com.br/wp-content/uploads/2020/02/radio-grande-serra-inicio.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Transertaneja FM",
+      "city": "Afogados da Ingazeira",
+      "state": "PE",
+      "url": "https://r11.ciclano.io:15010/stream",
+      "img": "https://transertanejafm.com.br/wp-content/uploads/2020/05/logo-transertaneja.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Top Music",
+      "city": "Recife",
+      "state": "PE",
+      "url": "https://servidor38-3.brlogic.com:8014/live",
+      "img": "https://public-rf-upload.minhawebradio.net/110/musicrequest/2892cc93cd0334f7f35ff697210b014b.png",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Moreno News",
+      "city": "Moreno",
+      "state": "PE",
+      "url": "https://s30.maxcast.com.br:8090/live?id=1609354037428",
+      "img": "https://ps-str.srvsite.com/arquivos/5140/cabecalho-5140-20190309093650.png",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Nova Geração FM",
+      "city": "Cabroró",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9122/;?1609355523451",
+      "img": "https://pbr-str.srvsite.com/arquivos/8352/cabecalho-123-20180302111336.png",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "Pop FM",
+      "city": "Surubim",
+      "state": "PE",
+      "url": "https://player.painelvox.com/player-ssl/6866/;?1609361683284",
+      "img": "https://scontent.fldb7-1.fna.fbcdn.net/v/t1.0-1/p240x240/12122733_109806412708624_3015827801489714827_n.jpg?_nc_cat=107&ccb=2&_nc_sid=dbb9e7&_nc_ohc=lRx6cHohWzEAX-sjQ6R&_nc_ht=scontent.fldb7-1.fna&tp=6&oh=f5b51391bfe4bc8e1cd11232dee4c885&oe=601445DB",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Polo FM",
+      "city": "Santa Cruz do Capibaribe",
+      "state": "PE",
+      "url": "https://radio.stmsrv.com:8322/",
+      "img": "https://www.polofm.com.br/wp-content/themes/polo_fm_2018/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "Riacho FM",
+      "city": "Riacho das Almas",
+      "state": "PE",
+      "url": "https://riachofm.jmvstream.com/stream",
+      "img": "https://static.wixstatic.com/media/443c81_6a98f34f8543412d9436f01c128b357f~mv2.jpg/v1/fill/w_316,h_318,al_c,q_80,usm_0.66_1.00_0.01/93199311_568734290410696_227058614237187.webp",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "Litoral FM",
+      "city": "Paulista",
+      "state": "PE",
+      "url": "http://stm9.stream.agenciasjc.com.br:7888/;",
+      "img": "http://www.fmlitoral.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 43,
+      "name": "Jurema FM",
+      "city": "Jurema",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/9282/;?1609359462435",
+      "img": "https://img.radios.com.br/radio/lg/radio13548_1583258343.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 44,
+      "name": "Nova FM",
+      "city": "Goiana",
+      "state": "PE",
+      "url": "http://cast2.hoost.com.br:8437/stream",
+      "img": "http://www.novafmgoiana.com/files/2017/02/LogoTeste.png",
+      "region": "northeast"
+    },
+    {
+      "id": 45,
+      "name": "Liberdade FM",
+      "city": "Caruaru",
+      "state": "PE",
+      "url": "https://shout25.crossradio.com.br:18220/1?1609357871",
+      "img": "https://site.liberdade.com.br/wp-content/uploads/2020/01/MARCA-FM-55anosl.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 46,
+      "name": "Belo Jardim FM",
+      "city": "Belo Jardim",
+      "state": "PE",
+      "url": "https://player.stmip.net/08/8320?1609355333662",
+      "img": "http://www.belojardimfm.com.br/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 47,
+      "name": "Cultura FM",
+      "city": "Serra Talhada",
+      "state": "PE",
+      "url": "http://stm17.stmsrv.com:8064/stream?1609361366542",
+      "img": "https://culturafm929.com.br/wp-content/uploads/2020/08/logosite.png",
+      "region": "northeast"
+    },
+    {
+      "id": 48,
+      "name": "Vida FM",
+      "city": "Salgueiro",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/10956/;?1609360784697",
+      "img": "https://pbr-str.srvsite.com/arquivos/5028/cabecalho-5028-20200723224633.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 49,
+      "name": "Santana FM",
+      "city": "Ribeirão",
+      "state": "PE",
+      "url": "https://cast2.hoost.com.br:20102/stream",
+      "img": "https://radiosantanafm.com.br/files/2019/02/santana_fm_logo-e1550624436287.png",
+      "region": "northeast"
+    },
+    {
+      "id": 50,
+      "name": "Petrolina FM",
+      "city": "Petrolina",
+      "state": "PE",
+      "url": "https://player.srvaudio.com.br/player-ssl/8324/;?1609360112740",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pe/radio-petrolina-fm.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 51,
+      "name": "Esperança FM",
+      "city": "Jaboatão dos Guararapes",
+      "state": "PE",
+      "url": "https://s23.maxcast.com.br:8052/live?id=870798047820",
+      "img": "https://img.radios.com.br/radio/lg/radio56831_1507573072.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 52,
+      "name": "Studio E",
+      "city": "Camutanga",
+      "state": "PE",
+      "url": "http://paineldj4.com.br:8044/stream?type=.mp3",
+      "img": "http://radio.radiosnaweb.com/_uploads/1033/logo.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 53,
+      "name": "Itapuama FM",
+      "city": "Arcoverde",
+      "state": "PE",
+      "url": "https://virtues.app:9035/live",
+      "img": "http://www.itapuamafm.com.br/assets/img/headers/logoo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 54,
+      "name": "Serra FM",
+      "city": "Serra Talhada",
+      "state": "PE",
+      "url": "https://svrstream1.svreua.com/streams.php?porta=8910;",
+      "img": "https://img.radios.com.br/radio/lg/radio140668_1585742106.jpg",
+      "region": "northeast"
+    }
+  ],
+  "sergipe": [
+    {
+      "id": 1,
+      "name": "Amanhecer FM",
+      "city": "Canindé de São Francisco",
+      "state": "SE",
+      "url": "http://fluoz-42.radiojar.com/qzv7cup1b6quv/source?1612178886447=&token=AAABd11isuLEpL5bbAirEA0KqrlmTvgjfdFGOJYiEMVDCtQufIBYOw",
+      "img": "https://img.radios.com.br/radio/lg/radio71271_1566411885.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Jovem Pan FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://play.radio.br:8089/glomesjpa/glomesjpa/icecast.audio",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/jovem-pan-fm-aracaju.png",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Fan FM",
+      "city": "Carmópolis",
+      "state": "SE",
+      "url": "https://player.stmip.net/08/7116?1612179775225",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/radio-ufs-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "FM Sertaneja",
+      "city": "Feira Nova",
+      "state": "SE",
+      "url": "http://cast.hoost.com.br:8223/stream?1612192172614",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/radio-sertaneja-fm-feira-nova.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Itabaianinha FM",
+      "city": "Itabaianinha",
+      "state": "SE",
+      "url": "https://ssl.bitstreaming.info:8240/;?1612192335925",
+      "img": "https://pa-str.srvsite.com/arquivos/3723/cabecalho-3723-20191126100341.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Boca da Mata FM",
+      "city": "Nossa Senhora da Glória",
+      "state": "SE",
+      "url": "https://servidor37-5.brlogic.com:8382/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/radio-fm-boca-da-mata-nossa-sra-da-gloria.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "FM Jubileu",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://player.srvaudio.com.br/player-ssl/11534",
+      "img": "https://ps-str.srvsite.com/arquivos/7172/cabecalho-7172-20210111154848.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Santa Rosa FM",
+      "city": "Santa Rosa de Lima",
+      "state": "SE",
+      "url": "http://stm25.srvaudio.com.br:9638/stream?1612217798269",
+      "img": "https://img.radios.com.br/radio/lg/radio66564_1522189621.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Mar Azul FM",
+      "city": "Estância",
+      "state": "SE",
+      "url": "https://svrstream4.svreua.com/streams.php?porta=8774/;&1612217943864",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/estancia/radio-mar-azul-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Capital do Agreste",
+      "city": "Itabaiana",
+      "state": "SE",
+      "url": "https://player-ssl.kshost.com.br:8604/live?1612218354212",
+      "img": "https://i2.wp.com/www.capitaldoagreste.com.br/wp-content/uploads/2020/03/cropped-radio-capital-fm-2.png?w=545&ssl=1",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "Tropical FM",
+      "city": "Simão Dias",
+      "state": "SE",
+      "url": "https://servidor29-5.brlogic.com:8774/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/simao-dias/radio-tropical-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Xodó FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://player.stmip.net/09/8824?1612179967503",
+      "img": "https://xodofm.com.br/rede/wp-content/themes/xodofm/img/xodolg.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "FM Sergipe",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "http://08.stmip.net:8012/;stream.mp3",
+      "img": "http://www.fmsergipe.com.br/wp-content/themes/fm-sergipe/imgs/radio.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Luandê FM",
+      "city": "Tobias Barreto",
+      "state": "SE",
+      "url": "http://148.72.158.239:8040/live?1612220211749",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/tobias-barreto/radio-luande-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Educadora FM",
+      "city": "Frei Paulo",
+      "state": "SE",
+      "url": "https://str1.streamhostpg.com.br:8016/stream?1612192259626",
+      "img": "http://www.radioeducadoradefreipaulo.com.br/site/img/logo.png?1612192242",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "RCN Web",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://ssl.stmip.net:7136//listen",
+      "img": "https://portalradiorcn.com/se/wp-content/uploads/2020/09/RCNOrban.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Liberdade FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://www.autodj.club:8510/stream",
+      "img": "http://liberdadefmaju.com.br/admin/assets/img/locutores/padrao.png?img=February+1%2C+2021%2C+8%3A43+am+38",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Web União",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "http://streaming.lives.srv.br:7228/;",
+      "img": "https://portalrus.net/sistema/arquivos/imagens/logo-radiouniao-[18-09-20][12-08-34].png",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Nova Brasil",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://20823.live.streamtheworld.com/NOVABRASIL_ARACAJU.mp3",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/radio-nova-brasil-fm-aracaju.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Propriá FM",
+      "city": "Propriá",
+      "state": "SE",
+      "url": "https://player-ssl.kshost.com.br:9606/live",
+      "img": "https://img.radios.com.br/radio/lg/radio14356_1542369121.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Anchieta FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://casthttps.suaradionanet.net/10578/stream",
+      "img": "https://manager.suaradionanet.net/storage/radios/anchietafm/site_basic/5fe2aa7b64fa42.38599208.png",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Xingó FM",
+      "city": "Canindé de São Francisco",
+      "state": "SE",
+      "url": "https://audio8.cmaudioevideo.com:10101/stream",
+      "img": "https://www.radioxingofm.com.br/imgs/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Fan FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://player.stmip.net/08/7114?1612179704805",
+      "img": "http://redefanfm.com.br/wp-content/themes/fan-tema/images/new-logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "Web Na Moral",
+      "city": "Tobias Barreto",
+      "state": "SE",
+      "url": "https://cast2.hoost.com.br:20052/stream",
+      "img": "https://www.radionamoral.com/files/2019/07/R%C3%A1dio-Na-Moral-Final.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "103 FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://player.ipstm.net/proxy/10714/;",
+      "img": "https://fm103.com.br/wp-content/themes/103-tema/assets/images/logo-103.png",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Tobias Barreto FM",
+      "city": "Tobias Barreto",
+      "state": "SE",
+      "url": "http://cast.hoost.com.br:8244/stream?1612220081180",
+      "img": "http://www.tobiasbarretofm.com.br/file/2016/04/NOVA-LOGO-e1459953043442.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Simão Dias FM",
+      "city": "Simão Dias",
+      "state": "SE",
+      "url": "http://07.stmip.in:9060/;?1612218858198",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/simao-dias/radio-simao-dias-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Aparecida FM",
+      "city": "Lagarto",
+      "state": "SE",
+      "url": "http://r13.ciclano.io:8798/live?1612218546762",
+      "img": "https://aparecidafm.com.br/wp-content/themes/aparecida-tema/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "UFS FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "http://radio.ufs.br:8000/;audio.mp3?hash=1612179219536",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/radio-ufs-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Web Estância Gospel",
+      "city": "Estância",
+      "state": "SE",
+      "url": "https://s32.maxcast.com.br:8070/live?id=384445396147",
+      "img": "https://img.radios.com.br/radio/lg/radio27074_1481300602.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Itabaiana FM",
+      "city": "Itabaiana",
+      "state": "SE",
+      "url": "https://player.stm-ipbr.com/ssl/7104",
+      "img": "https://fmitabaiana.com.br/img/logo/logo-topo_9bd05d2aa1e417b6e28046fc.png",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "102.7 FM",
+      "city": "Lagarto",
+      "state": "SE",
+      "url": "http://r13.ciclano.io:8218/stream?1612218738391",
+      "img": "https://img.radios.com.br/radio/lg/radio14085_1533205590.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "Reino Vivo",
+      "city": "Tobias Barreto",
+      "state": "SE",
+      "url": "http://server05.srvsh.com.br:6794/;?1612220369556",
+      "img": "https://img.radios.com.br/radio/lg/radio37625_1526404957.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Sara Brasil FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
+      "img": "https://www.guiademidia.com.br/imagens/radios/rede-radio-sara-brasil-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "Eldorado FM",
+      "city": "Lagarto",
+      "state": "SE",
+      "url": "https://paineldj6.com.br:20025/live",
+      "img": "https://fmeldorado.com.br/wp-content/uploads/2020/05/fm-eldorado3-160x871.png",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Xodó FM",
+      "city": "Glória",
+      "state": "SE",
+      "url": "https://13.stmip.net/player.php?porta=8328&1612180087330",
+      "img": "https://xodofm.com.br/rede/wp-content/themes/xodofm/img/xodolg.png",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Jornal FM",
+      "city": "Aracaju",
+      "state": "SE",
+      "url": "http://13.stmip.net:9274/stream?1612179135605",
+      "img": "https://www.guiademidia.com.br/imagens/radios/se/aracaju/radio-jornal-fm.png",
+      "region": "northeast"
+    }
+  ],
+  "rioGrandeNorte": [
+    {
+      "id": 1,
+      "name": "87.9 FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://sv10.hdradios.net:7022/stream?1612223808399",
+      "img": "https://img.radios.com.br/radio/lg/radio25027_1439401619.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "104 FM",
+      "city": "Parnamirim",
+      "state": "RN",
+      "url": "https://trampolim.jmvstream.com/stream",
+      "img": "http://www.104fmprazeremouvir.com.br/img/logotipo.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Vale FM",
+      "city": "Apodi",
+      "state": "RN",
+      "url": "http://cast4.hoost.com.br:8597/stream?1612227150393",
+      "img": "https://img.radios.com.br/radio/lg/radio27659_1514282242.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "95 FM",
+      "city": "Caicó",
+      "state": "RN",
+      "url": "http://str.radiorural.com:8010/live?1612227763776",
+      "img": "http://radiorural.com/wp-content/uploads/2020/02/logo95fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Goianinha FM",
+      "city": "Goianinha",
+      "state": "RN",
+      "url": "https://servidor33-3.brlogic.com:8086/live",
+      "img": "https://img.radios.com.br/radio/lg/radio40350_1477057325.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Macau FM",
+      "city": "Macau",
+      "state": "RN",
+      "url": "http://stm5.painelvox.com:6814/stream?1612229117380",
+      "img": "https://www.guiademidia.com.br/imagens/radios/rn/radio-macau-fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Comunitária Santa Rita",
+      "city": "Santa Cruz",
+      "state": "RN",
+      "url": "http://cast.hoost.com.br:8602/stream?1612229885932",
+      "img": "https://img.radios.com.br/radio/lg/radio13172_1439401449.JPG",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Litoral Natal FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://stm4.voxhd.com.br:7512/stream?1612224202917",
+      "img": "https://img.radios.com.br/radio/lg/radio33936_1605695800.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "FM Tibau",
+      "city": "Tibau do Sul",
+      "state": "RN",
+      "url": "http://sv11.hdradios.net:6944/;?1612230139919",
+      "img": "https://img.radios.com.br/radio/lg/radio15018_1473687082.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "95 FM",
+      "city": "Currais Novos",
+      "state": "RN",
+      "url": "http://177.105.176.239:8010/live",
+      "img": "http://radio95.fm.br/wp-content/uploads/2019/08/LOGO-_95.png",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "106.5 FM",
+      "city": "Ceará Mirim",
+      "state": "RN",
+      "url": "http://sv11.hdradios.net:6948/stream?1612228194034",
+      "img": "http://www.independenciafm106.com.br/img/201911021028543b6395d4b529e2538c8b232ed5d0d91f.png",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Justiça Potiguar",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://z-quito.tjrn.jus.br:8000/radiojusticapotiguar128k?1612225004690",
+      "img": "https://img.radios.com.br/radio/lg/radio101504_1550227498.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Vale Verde FM",
+      "city": "Ceará Mirim",
+      "state": "RN",
+      "url": "http://sv12.hdradios.net:7566/strea?1612228078074",
+      "img": "https://www.guiademidia.com.br/imagens/radios/rn/radio-87-fm-vale-verde-ceara-mirim.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "96 FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://centova10.ciclanohost.com.br:6258/stream",
+      "img": "http://www.96fm.com.br/public/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Costa Branca FM",
+      "city": "Areia Branca",
+      "state": "RN",
+      "url": "http://node-31.zeno.fm/0h3ukexw25quv?1612227319713=&rj-tok=AAABd2BFveMAb1uN52joO7-qHw&rj-ttl=5",
+      "img": "https://img.radios.com.br/radio/lg/radio12227_1537962266.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "87 FM Litoral",
+      "city": "Maracajú",
+      "state": "RN",
+      "url": "https://ssl.hdradios.net:7116/",
+      "img": "https://www.87fmlitoral.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Web MS",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://stm34.srvstm.com:7528/stream?1612224615139",
+      "img": "https://img.radios.com.br/radio/lg/radio158480_1599653245.png",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Web Ceará Mirim",
+      "city": "Ceará Mirim",
+      "state": "RN",
+      "url": "https://ssl.hdradios.net:7004/",
+      "img": "https://www.webradiocm.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Currais Novos FM",
+      "city": "Currais Novos",
+      "state": "RN",
+      "url": "http://177.105.176.239:8080/live?1612227855660",
+      "img": "http://radiorural.com/wp-content/uploads/2020/02/logo90fm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Rural FM",
+      "city": "Caicó",
+      "state": "RN",
+      "url": "http://str.radiorural.com:8011/stream?1612227806137",
+      "img": "http://radiorural.com/wp-content/uploads/2020/02/logoruralfm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "87 FM",
+      "city": "Parnamirm",
+      "state": "RN",
+      "url": "http://stm45.conectastm.com:7402/;",
+      "img": "http://www.87fmparnamirim.com.br/admin/assets/img/ouvinte.png",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Princesa FM",
+      "city": "Assú",
+      "state": "RN",
+      "url": "http://cast3.hoost.com.br:8219/stream?1612227482657",
+      "img": "https://img.radios.com.br/radio/lg/radio8772_1536065248.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Universitária FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://radio.fmu.ufrn.br:8000/live.aac?1612224296453",
+      "img": "https://img.radios.com.br/radio/lg/radio14990_1532082977.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "89 FM",
+      "city": "João Câmara",
+      "state": "RN",
+      "url": "https://ssl.srvstm.com:7066/;",
+      "img": "http://www.89fmonline.com.br/assets/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Web Guamaré",
+      "city": "Guamaré",
+      "state": "RN",
+      "url": "https://player-ssl.kshost.com.br:8714/live",
+      "img": "https://img.radios.com.br/radio/lg/radio29374_1515528943.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Cidade FM",
+      "city": "Apodi",
+      "state": "RN",
+      "url": "http://stm13.xcast.com.br:8582/stream?1612227241367",
+      "img": "https://img.radios.com.br/radio/lg/radio25149_1527862282.jpeg",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Web Fronteira TV",
+      "city": "Messias Targino",
+      "state": "RN",
+      "url": "http://stm1.xcast.com.br:8722/;%3C/audio",
+      "img": "https://img.radios.com.br/radio/lg/radio33956_1541077287.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Web Natal",
+      "city": "Natal",
+      "state": "RN",
+      "url": "https://www.webradionatal.com.br/play.php",
+      "img": "https://www.webradionatal.com.br/admin/assets/img/locutores/padrao.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Web CN Agitos",
+      "city": "Currais Novos",
+      "state": "RN",
+      "url": "http://centova2.ipstm.net:12126/stream",
+      "img": "https://www.cnagitos.com/img/profile.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Popular de Natal",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://stm11.xcast.com.br:11748/;?1612224903235",
+      "img": "https://img.radios.com.br/radio/lg/radio36788_1464194055.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Mais Parnamirim",
+      "city": "Parnamirim",
+      "state": "RN",
+      "url": "http://sv12.hdradios.net:7688/stream?1612226693742",
+      "img": "https://img.radios.com.br/radio/lg/radio160105_1601323547.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "95 FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "https://ssl.srvstm.com:9804/;",
+      "img": "https://95maisfm.com.br/wp-content/uploads/2020/06/logo-1.png",
+      "region": "northeast"
+    },
+    {
+      "id": 33,
+      "name": "105 FM",
+      "city": "Mossoró",
+      "state": "RN",
+      "url": "http://fm105mossoro.streams.com.br:7825/stream",
+      "img": "http://www.fm105mossoro.com.br/player/logo_trans.png",
+      "region": "northeast"
+    },
+    {
+      "id": 34,
+      "name": "Agreste FM",
+      "city": "Nova Cruz",
+      "state": "RN",
+      "url": "https://stream1.svrdedicado.org/8040/;",
+      "img": "https://img.radios.com.br/radio/lg/radio26737_1595934915.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 35,
+      "name": "FM Educativa",
+      "city": "Almino Afonso",
+      "state": "RN",
+      "url": "http://sv10.hdradios.net:6784/;",
+      "img": "https://img.radios.com.br/radio/lg/radio17303_1439401504.JPG",
+      "region": "northeast"
+    },
+    {
+      "id": 36,
+      "name": "Assú FM",
+      "city": "Assú",
+      "state": "RN",
+      "url": "http://143.208.11.100:7030/stream?type=.mp3",
+      "img": "http://www.assufm.com.br/images/nova_logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 37,
+      "name": "Viva FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "https://tudo.radio/proxy/server10.srvsh.com.br:7740/stream",
+      "img": "https://img.radios.com.br/radio/lg/radio96435_1545139005.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 38,
+      "name": "Liberdade FM",
+      "city": "Cerro Corá",
+      "state": "RN",
+      "url": "https://servidor28-5.brlogic.com:8480/live",
+      "img": "https://img.radios.com.br/radio/lg/radio36713_1483357902.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 39,
+      "name": "Cidade FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "https://cidadedosolaac.jmvstream.com/stream",
+      "img": "http://94fmradiocidade.com.br/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 40,
+      "name": "Libertadora FM",
+      "city": "Mossoró",
+      "state": "RN",
+      "url": "http://svrstream4.svreua.com:8784/;",
+      "img": "http://radiolibertadora.com.br/wp-content/themes/fm/assets/img/logo-radiolibertadora.png",
+      "region": "northeast"
+    },
+    {
+      "id": 41,
+      "name": "106 FM",
+      "city": "Caicó",
+      "state": "RN",
+      "url": "http://149.56.167.236:8081/stream?type=.mp3",
+      "img": "http://www.106fm.com.br/R%C3%A1dio%20106%20FM%20-%20Caic%C3%B3-RN_files/logo-106fm-caico.png",
+      "region": "northeast"
+    },
+    {
+      "id": 42,
+      "name": "WRB Gospel",
+      "city": "Natal",
+      "state": "RN",
+      "url": "http://stm.voxhd.com.br:7168/;?1612224860689",
+      "img": "https://img.radios.com.br/radio/lg/radio32175_1611858985.png",
+      "region": "northeast"
+    },
+    {
+      "id": 43,
+      "name": "Nova FM",
+      "city": "Assú",
+      "state": "RN",
+      "url": "http://143.208.11.100:8622/stream?type=.mp3",
+      "img": "http://nova89.com.br/wp-content/themes/nova89FM/images/logo-nova89.png",
+      "region": "northeast"
+    },
+    {
+      "id": 44,
+      "name": "Beto Som FM",
+      "city": "Parnamirim",
+      "state": "RN",
+      "url": "Parnamirim",
+      "img": "https://img.radios.com.br/radio/lg/radio30636_1439401790.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 45,
+      "name": "98 FM",
+      "city": "Natal",
+      "state": "RN",
+      "url": "https://ssl.srvstm.com:8094/;",
+      "img": "https://98fmnatal.com.br/wp-content/uploads/2019/10/logo98fmnatal.png",
+      "region": "northeast"
+    }
+  ],
+  "piaui": [
+    {
+      "id": 1,
+      "name": "Pioneira FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://servidor30-3.brlogic.com:8230/live",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pi/radio-pioneira-piaui.png",
+      "region": "northeast"
+    },
+    {
+      "id": 2,
+      "name": "Eldorado FM",
+      "city": "Elesbão Veloso",
+      "state": "PI",
+      "url": "https://player.srvaudio.com.br/player-ssl/10202?1613043782203",
+      "img": "https://img.radios.com.br/radio/lg/radio31908_1458563410.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 3,
+      "name": "Imperial FM",
+      "city": "Pedro II",
+      "state": "PI",
+      "url": "https://01.stmip.net/player.php?porta=7904",
+      "img": "https://www.fmimperial.com.br/public/img/logo-imperial.png",
+      "region": "northeast"
+    },
+    {
+      "id": 4,
+      "name": "Vale dos Guaribas FM",
+      "city": "Picos",
+      "state": "PI",
+      "url": "https://servidor27-4.brlogic.com:8270/live",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/0/25700.v4.png",
+      "region": "northeast"
+    },
+    {
+      "id": 5,
+      "name": "Web Toque Novo",
+      "city": "Simplício Mendes",
+      "state": "PI",
+      "url": "https://ssl.livemus.com.br:27498/stream",
+      "img": "https://img.radios.com.br/radio/lg/radio35607_1583428073.png",
+      "region": "northeast"
+    },
+    {
+      "id": 6,
+      "name": "Boa FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://webradio.amsolution.com.br/radio/8290/boa?1612486132132",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pi/radio-boa-fm-teresina.png",
+      "region": "northeast"
+    },
+    {
+      "id": 7,
+      "name": "Matões FM",
+      "city": "Pedro II",
+      "state": "PI",
+      "url": "http://143.208.11.100:7098/;",
+      "img": "http://matoesfm.com.br/arquivos/configuracoes/logomarca240.png",
+      "region": "northeast"
+    },
+    {
+      "id": 8,
+      "name": "Web Estação Gospel",
+      "city": "Aroeiras do Itaim",
+      "state": "PI",
+      "url": "https://player.xcast.com.br/proxy/10700",
+      "img": "http://www.radioestacaogospel.com/admin/assets/img/users/2910-2020-12-09.png",
+      "region": "northeast"
+    },
+    {
+      "id": 9,
+      "name": "Liberdade FM",
+      "city": "Piripiri",
+      "state": "PI",
+      "url": "https://svrstream4.svreua.com/streams.php?porta=8726/;&1613045286322",
+      "img": "https://us0-cdn.onlineradiobox.com/img/logo/5/65085.v9.png",
+      "region": "northeast"
+    },
+    {
+      "id": 10,
+      "name": "Jockey FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "http://45.77.199.13:8009/stream",
+      "img": "http://www.jockeyfm.com.br/images/logo/1/logo-2.png",
+      "region": "northeast"
+    },
+    {
+      "id": 11,
+      "name": "",
+      "city": "",
+      "state": "PI",
+      "url": "",
+      "img": "",
+      "region": "northeast"
+    },
+    {
+      "id": 12,
+      "name": "Web Net Parnaíba",
+      "city": "Parnaíba",
+      "state": "PI",
+      "url": "http://audio3.cmaudioevideo.com:8612/stream?1613044539865",
+      "img": "http://2.bp.blogspot.com/-Wj9mC39FYaU/XDIogQJQFuI/AAAAAAAAEBU/xQuh0RGTxHA8jIG9IhE5X3lmH4BpexQ3wCK4BGAYYCw/s1600/0007.png",
+      "region": "northeast"
+    },
+    {
+      "id": 13,
+      "name": "Itamaraty FM",
+      "city": "Piripiri",
+      "state": "PI",
+      "url": "https://player.stmip.net/01/9256",
+      "img": "http://www.itamaratyam.com.br/public/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 14,
+      "name": "Nova Brasil FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://20833.live.streamtheworld.com/NOVABRASIL_SPAAC.aac",
+      "img": "https://www.guiademidia.com.br/imagens/radios/pi/radio-nova-brasil-teresina.png",
+      "region": "northeast"
+    },
+    {
+      "id": 15,
+      "name": "Teresina FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://servidor27.brlogic.com:8034/live",
+      "img": "https://www.teresinafm.com.br/wp-content/themes/notempo/images/logo_teresinafm.png",
+      "region": "northeast"
+    },
+    {
+      "id": 16,
+      "name": "Liderança FM",
+      "city": "Parnaíba",
+      "state": "PI",
+      "url": "https://8557.brasilstream.com.br/stream",
+      "img": "https://lideranca951.com.br/wp-content/themes/lideranca/images/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 17,
+      "name": "Jornal Meionorte FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://webradio.amsolution.com.br/radio/8270/jmn",
+      "img": "",
+      "region": "northeast"
+    },
+    {
+      "id": 18,
+      "name": "Serra FM",
+      "city": "São Francisco de Assis",
+      "state": "PI",
+      "url": "http://hd5.matutos.com.br:9430/stream?1613045566332",
+      "img": "https://img.radios.com.br/radio/lg/radio21167_1476210655.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 19,
+      "name": "Verdes Campos FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://media23.universodohost.com.br:8443/franly?1613043526861",
+      "img": "https://img.radios.com.br/radio/lg/radio18428_1565781292.png",
+      "region": "northeast"
+    },
+    {
+      "id": 20,
+      "name": "Paulistana FM",
+      "city": "Paulistana",
+      "state": "PI",
+      "url": "https://cast2.hoost.com.br:20081/stream",
+      "img": "",
+      "region": "northeast"
+    },
+    {
+      "id": 21,
+      "name": "Cultura FM",
+      "city": "São Raimundo Nonato",
+      "state": "PI",
+      "url": "https://s41.maxcast.com.br:8198/live?id=1093268112397",
+      "img": "https://s41.maxcast.com.br/cover/55488/6fbc4263/ccd32381-42bc-340d-813b-5856f45c851b.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 22,
+      "name": "Meio Norte",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+      "img": "https://www.meionorte.com/assets/portalmn/fmmeionorte-thumb.png",
+      "region": "northeast"
+    },
+    {
+      "id": 23,
+      "name": "Cidade FM",
+      "city": "Parnaíba",
+      "state": "PI",
+      "url": "http://51.75.145.68:9944/;",
+      "img": "http://www.cidadephb.com/thumb.php?h=70&src=images/1590770109.png",
+      "region": "northeast"
+    },
+    {
+      "id": 24,
+      "name": "FM Clube",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://player.xcast.com.br/proxy/8938",
+      "img": "https://www.fmclubeteresina.com.br/admin/assets/img/logo.png",
+      "region": "northeast"
+    },
+    {
+      "id": 25,
+      "name": "Cidade Modelo FM",
+      "city": "Picos",
+      "state": "PI",
+      "url": "https://ssl1.transmissaodigital.com:20114/stream?1613044945153",
+      "img": "https://img.radios.com.br/radio/lg/radio11694_1594641010.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 26,
+      "name": "Cocais",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://webradio.amsolution.com.br/radio/8230/cocais",
+      "img": "https://www.meionorte.com/assets/portalmn/cocaisfm-thumb.png",
+      "region": "northeast"
+    },
+    {
+      "id": 27,
+      "name": "Web Voz",
+      "city": "Piripiri",
+      "state": "PI",
+      "url": "https://player.painelvox.com/player-ssl/8376?1613045493816",
+      "img": "https://img.radios.com.br/radio/lg/radio150118_1593024195.png",
+      "region": "northeast"
+    },
+    {
+      "id": 28,
+      "name": "Vip FM",
+      "city": "Parnaíba",
+      "state": "PI",
+      "url": "http://svrstream3.svreua.com:9000/live",
+      "img": "http://www.radiovipfm.com.br/uploads/8/1/2/1/81214518/logo-radio-vip-fm_orig.png",
+      "region": "northeast"
+    },
+    {
+      "id": 29,
+      "name": "Web Avante",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://player-ssl.kshost.com.br:11156/live",
+      "img": "https://spaceks.net/sites/radioavante.com/images/logo/logo_160331315.png",
+      "region": "northeast"
+    },
+    {
+      "id": 30,
+      "name": "Princesa FM",
+      "city": "Floriano",
+      "state": "PI",
+      "url": "http://192.99.4.205:8546/stream?1612486854219",
+      "img": "https://img.radios.com.br/radio/lg/radio14350_1505841696.png",
+      "region": "northeast"
+    },
+    {
+      "id": 31,
+      "name": "Super Vale FM",
+      "city": "Luzilândia",
+      "state": "PI",
+      "url": "https://s32.maxcast.com.br:8172/live?id=248592992593",
+      "img": "https://img.radios.com.br/radio/lg/radio22928_1519640255.jpg",
+      "region": "northeast"
+    },
+    {
+      "id": 32,
+      "name": "Verona FM",
+      "city": "Teresina",
+      "state": "PI",
+      "url": "https://player.srvaudio.com.br/player-ssl/10306/;?1612485873514",
+      "img": "https://portalverona.org/img/2891b6885e796fe8a883dd402846006b.jpg",
+      "region": "northeast"
     }
   ]
 }
