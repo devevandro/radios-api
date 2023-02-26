@@ -9457,7 +9457,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://stream.ouveai.com.br/proxy/radioalegrianh?mp=/stream",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-alegria.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-alegria.png",
+      "region": "south"
     },
     {
       "id": 2,
@@ -9465,7 +9466,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "https://r6.ciclano.io:15028/;",
-      "img": "https://radiovinhedos.com.br/wp-content/themes/vinhedos-theme/assets/images/logo.png"
+      "img": "https://radiovinhedos.com.br/wp-content/themes/vinhedos-theme/assets/images/logo.png",
+      "region": "south"
     },
     {
       "id": 3,
@@ -9473,7 +9475,8 @@
       "city": "Ijuí",
       "state": "RS",
       "url": "https://centova4.transmissaodigital.com:20081/;",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/ijui/radio-progresso-ijui.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/ijui/radio-progresso-ijui.png",
+      "region": "south"
     },
     {
       "id": 4,
@@ -9481,7 +9484,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://servidor31.brlogic.com:8332/live?type=.",
-      "img": "https://radionovametro.com.br/wp-content/uploads/2021/01/Logo-Metro-1-2-300x183.png"
+      "img": "https://radionovametro.com.br/wp-content/uploads/2021/01/Logo-Metro-1-2-300x183.png",
+      "region": "south"
     },
     {
       "id": 5,
@@ -9489,7 +9493,8 @@
       "city": "Novo Hamburgo",
       "state": "RS",
       "url": "https://stream.ouveai.com.br/proxy/uniaonh?mp=/stream",
-      "img": "https://www.uniaofm.com.br/wp-content/themes/radiouniaotheme/images/logo-radio-uniao.png"
+      "img": "https://www.uniaofm.com.br/wp-content/themes/radiouniaotheme/images/logo-radio-uniao.png",
+      "region": "south"
     },
     {
       "id": 6,
@@ -9497,7 +9502,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "https://play.radio.br:8089/ucsfmbento/ucsfmbento/icecast.audio?1613094094984",
-      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png"
+      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png",
+      "region": "south"
     },
     {
       "id": 7,
@@ -9505,7 +9511,8 @@
       "city": "Poa",
       "state": "RS",
       "url": "https://s36.maxcast.com.br:8138/live?id=1613091948188",
-      "img": "http://wazzah.com.br/rdgalera/site/wp-content/uploads/2019/04/logo-site-radiogalera.png"
+      "img": "http://wazzah.com.br/rdgalera/site/wp-content/uploads/2019/04/logo-site-radiogalera.png",
+      "region": "south"
     },
     {
       "id": 8,
@@ -9513,7 +9520,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "https://radio.saopaulo01.com.br:7002/stream",
-      "img": "https://rduirapuru.com.br/wp-content/themes/alpina-theme/assets/imgs/uirapuru-logo.png"
+      "img": "https://rduirapuru.com.br/wp-content/themes/alpina-theme/assets/imgs/uirapuru-logo.png",
+      "region": "south"
     },
     {
       "id": 9,
@@ -9521,7 +9529,8 @@
       "city": "Santa Maria",
       "state": "RS",
       "url": "https://r17.ciclano.io:15006/;",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/santa-maria/radio-nativa-fm-sm.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/santa-maria/radio-nativa-fm-sm.png",
+      "region": "south"
     },
     {
       "id": 10,
@@ -9529,7 +9538,8 @@
       "city": "Poa",
       "state": "RS",
       "url": "https://stream.ouveai.com.br/proxy/radiointer?mp=/stream/;",
-      "img": "https://www.internacional.com.br/static/radio-19c4f1501076e208746eed64d728c042.svg"
+      "img": "https://www.internacional.com.br/static/radio-19c4f1501076e208746eed64d728c042.svg",
+      "region": "south"
     },
     {
       "id": 11,
@@ -9537,7 +9547,8 @@
       "city": "Pelotas",
       "state": "RS",
       "url": "http://stm37.conectastm.com:7850/stream",
-      "img": "http://praianafm.agoranoar.com.br/admin/assets/img/locutores/padrao.png?img=February+12%2C+2021%2C+12%3A10+am+02"
+      "img": "http://praianafm.agoranoar.com.br/admin/assets/img/locutores/padrao.png?img=February+12%2C+2021%2C+12%3A10+am+02",
+      "region": "south"
     },
     {
       "id": 12,
@@ -9545,7 +9556,8 @@
       "city": "Novo Hamburgo",
       "state": "RS",
       "url": "https://ssl.xcast.com.br:8250/live",
-      "img": "https://img.radios.com.br/radio/lg/radio59917_1511885795.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio59917_1511885795.jpg",
+      "region": "south"
     },
     {
       "id": 13,
@@ -9553,7 +9565,8 @@
       "city": "Poa",
       "state": "RS",
       "url": "https://servidor33-4.brlogic.com:8262/live",
-      "img": "https://img.radios.com.br/radio/md/radio16354_1533174442.jpg"
+      "img": "https://img.radios.com.br/radio/md/radio16354_1533174442.jpg",
+      "region": "south"
     },
     {
       "id": 14,
@@ -9561,7 +9574,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "http://143.208.11.100:8874/stream//Title1?1613093153082",
-      "img": "http://www.radiorainha.fm.br/assets/site/img/basic/rainha-fm.png"
+      "img": "http://www.radiorainha.fm.br/assets/site/img/basic/rainha-fm.png",
+      "region": "south"
     },
     {
       "id": 15,
@@ -9569,7 +9583,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://player-ssl.kshost.com.br:9822/live",
-      "img": "https://radiolp3.com/wp-content/uploads/2018/03/LP3-BRANCO-370x129.png"
+      "img": "https://radiolp3.com/wp-content/uploads/2018/03/LP3-BRANCO-370x129.png",
+      "region": "south"
     },
     {
       "id": 16,
@@ -9577,7 +9592,8 @@
       "city": "Ijuí",
       "state": "RS",
       "url": "https://centova4.transmissaodigital.com:20065/;",
-      "img": "https://www.gruporeporter.com.br/wp-content/uploads/2019/07/Logo-R%C3%A1dio-Iguatemi.png"
+      "img": "https://www.gruporeporter.com.br/wp-content/uploads/2019/07/Logo-R%C3%A1dio-Iguatemi.png",
+      "region": "south"
     },
     {
       "id": 17,
@@ -9585,7 +9601,8 @@
       "city": "Caxias do Sul",
       "state": "RS",
       "url": "https://r6.ciclano.io:15030/;",
-      "img": "https://radioviva.com.br/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-24-at-15.47.27-1.jpeg"
+      "img": "https://radioviva.com.br/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-24-at-15.47.27-1.jpeg",
+      "region": "south"
     },
     {
       "id": 18,
@@ -9593,7 +9610,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://cast4.audiostream.com.br:8649/mp3",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-grenal.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-grenal.png",
+      "region": "south"
     },
     {
       "id": 19,
@@ -9601,7 +9619,8 @@
       "city": "Santa Maria",
       "state": "RS",
       "url": "https://r17.ciclano.io:15008/stream",
-      "img": "https://radioimembui.com.br/storage/app/uploads/public/5b2/6df/a1c/5b26dfa1c1613292729884.png"
+      "img": "https://radioimembui.com.br/storage/app/uploads/public/5b2/6df/a1c/5b26dfa1c1613292729884.png",
+      "region": "south"
     },
     {
       "id": 20,
@@ -9609,7 +9628,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://wms5.webradios.com.br:18918/891",
-      "img": "https://img.radios.com.br/radio/lg/radio33098_1439401906.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio33098_1439401906.jpg",
+      "region": "south"
     },
     {
       "id": 21,
@@ -9617,7 +9637,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "http://servidor38.brlogic.com:8134/live?1613095535848",
-      "img": "https://www.upf.br/_uploads/8d2fc46a-5efc-4397-b61e-4e9f1f106812.png"
+      "img": "https://www.upf.br/_uploads/8d2fc46a-5efc-4397-b61e-4e9f1f106812.png",
+      "region": "south"
     },
     {
       "id": 22,
@@ -9625,7 +9646,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://c1.audiostream.com.br:2007/site",
-      "img": "https://guaiba.com.br/wp-content/uploads/2020/08/logo-rd-gua%C3%ADba-272x90-1.png"
+      "img": "https://guaiba.com.br/wp-content/uploads/2020/08/logo-rd-gua%C3%ADba-272x90-1.png",
+      "region": "south"
     },
     {
       "id": 23,
@@ -9633,7 +9655,8 @@
       "city": "Novo Hmaburgo",
       "state": "RS",
       "url": "https://r13.ciclano.io:15169/stream",
-      "img": "https://emarketing.nyc3.cdn.digitaloceanspaces.com/radio88e7/5e2efaa23a5dalogo.png"
+      "img": "https://emarketing.nyc3.cdn.digitaloceanspaces.com/radio88e7/5e2efaa23a5dalogo.png",
+      "region": "south"
     },
     {
       "id": 24,
@@ -9641,7 +9664,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "http://177.128.178.10:8000/;",
-      "img": "https://img.radios.com.br/radio/lg/radio101175_1549906860.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio101175_1549906860.jpg",
+      "region": "south"
     },
     {
       "id": 25,
@@ -9649,7 +9673,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://cast4.audiostream.com.br:8654/mp3",
-      "img": "http://radiocaicara.com.br/wp-content/uploads/2020/01/Caicara.png"
+      "img": "http://radiocaicara.com.br/wp-content/uploads/2020/01/Caicara.png",
+      "region": "south"
     },
     {
       "id": 26,
@@ -9657,7 +9682,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "https://servidor39.brlogic.com:8252/live?type=.m3u",
-      "img": "https://ghostradios.com/wp-content/uploads/2020/02/Logo-site.png"
+      "img": "https://ghostradios.com/wp-content/uploads/2020/02/Logo-site.png",
+      "region": "south"
     },
     {
       "id": 27,
@@ -9665,7 +9691,8 @@
       "city": "Caxias do Sul",
       "state": "RS",
       "url": "https://play.radio.br:8089/UCS/FMCaxias/icecast.audio?1613094019207",
-      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png"
+      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png",
+      "region": "south"
     },
     {
       "id": 28,
@@ -9673,7 +9700,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://shout25.crossradio.com.br:19010/1",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-mix-poa.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-mix-poa.png",
+      "region": "south"
     },
     {
       "id": 29,
@@ -9681,7 +9709,8 @@
       "city": "Santa Maria",
       "state": "RS",
       "url": "https://r10.ciclano.io:15003/stream?1613096504022",
-      "img": "http://caraifm.com.br/wp-content/uploads/2017/06/logocarai.jpg"
+      "img": "http://caraifm.com.br/wp-content/uploads/2017/06/logocarai.jpg",
+      "region": "south"
     },
     {
       "id": 30,
@@ -9689,7 +9718,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "http://centova18.ciclanohost.com.br:9676/stream?1613095310176",
-      "img": "http://rdplanalto.com//images/215xNxlogo-planalto-fm.png.pagespeed.ic._rmitRsdJE.webp"
+      "img": "http://rdplanalto.com//images/215xNxlogo-planalto-fm.png.pagespeed.ic._rmitRsdJE.webp",
+      "region": "south"
     },
     {
       "id": 31,
@@ -9697,7 +9727,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "https://r6.ciclano.io:15020/tunein/querencia-stream.pls?sid=1",
-      "img": "https://radioquerencia.com.br/wp-content/themes/querencia-theme/assets/images/logo.png"
+      "img": "https://radioquerencia.com.br/wp-content/themes/querencia-theme/assets/images/logo.png",
+      "region": "south"
     },
     {
       "id": 32,
@@ -9705,7 +9736,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://cast4.audiostream.com.br:8653/aac",
-      "img": "http://www.radiopampa.com.br/wp-content/uploads/2020/07/logo.png"
+      "img": "http://www.radiopampa.com.br/wp-content/uploads/2020/07/logo.png",
+      "region": "south"
     },
     {
       "id": 33,
@@ -9713,7 +9745,8 @@
       "city": "Novo Hamburgo",
       "state": "RS",
       "url": "https://player.srvsh.com.br/proxy/7102",
-      "img": "https://radiobip.com.br/wp-content/uploads/2020/11/logoRBBsemfundo-114x114-1.png"
+      "img": "https://radiobip.com.br/wp-content/uploads/2020/11/logoRBBsemfundo-114x114-1.png",
+      "region": "south"
     },
     {
       "id": 34,
@@ -9721,7 +9754,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://ssl.srvstm.com:7520/;",
-      "img": "https://img.radios.com.br/radio/lg/radio35813_1468678993.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio35813_1468678993.jpg",
+      "region": "south"
     },
     {
       "id": 35,
@@ -9729,7 +9763,8 @@
       "city": "Santa Maria",
       "state": "RS",
       "url": "https://s46.maxcast.com.br:8236/live?id=935177686568",
-      "img": "https://img.radios.com.br/radio/lg/radio34140_1517255476.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio34140_1517255476.jpg",
+      "region": "south"
     },
     {
       "id": 36,
@@ -9737,7 +9772,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "https://ssl.xcast.com.br:6898/;",
-      "img": "https://static.wixstatic.com/media/9a2bc4_dded3415a18a45e8a0cd7d1d50de6e6e~mv2.png/v1/fill/w_596,h_596,al_c,q_85,usm_0.66_1.00_0.01/1.webp"
+      "img": "https://static.wixstatic.com/media/9a2bc4_dded3415a18a45e8a0cd7d1d50de6e6e~mv2.png/v1/fill/w_596,h_596,al_c,q_85,usm_0.66_1.00_0.01/1.webp",
+      "region": "south"
     },
     {
       "id": 37,
@@ -9745,7 +9781,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://www.radios.com.br/old_php/players/load/silence.mp3",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-102-3-fm.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-102-3-fm.png",
+      "region": "south"
     },
     {
       "id": 38,
@@ -9753,7 +9790,8 @@
       "city": "Pelotas",
       "state": "RS",
       "url": "https://servidor32-4.brlogic.com:8140/live",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/pelotas/radio-dez-fm.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/pelotas/radio-dez-fm.png",
+      "region": "south"
     },
     {
       "id": 39,
@@ -9761,7 +9799,8 @@
       "city": "Caxias do Sul",
       "state": "RS",
       "url": "https://c1.audiostream.com.br:20012/stream",
-      "img": "https://radiocaxias.com.br/portal/css/images/home/radiocaxias-logo.png"
+      "img": "https://radiocaxias.com.br/portal/css/images/home/radiocaxias-logo.png",
+      "region": "south"
     },
     {
       "id": 40,
@@ -9769,7 +9808,8 @@
       "city": "Bento Gonçalves",
       "state": "RS",
       "url": "https://player.xcast.com.br/proxy/9330",
-      "img": "https://img.radios.com.br/radio/lg/radio40426_1589288301.png"
+      "img": "https://img.radios.com.br/radio/lg/radio40426_1589288301.png",
+      "region": "south"
     },
     {
       "id": 41,
@@ -9777,7 +9817,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://cast4.audiostream.com.br:8650/aac?1613091391854",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-continental-fm-porto-alegre.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/radio-continental-fm-porto-alegre.png",
+      "region": "south"
     },
     {
       "id": 42,
@@ -9785,7 +9826,8 @@
       "city": "Viamão",
       "state": "RS",
       "url": "https://ssl.xradios.com.br:7024/1/;?1613096731030",
-      "img": "https://img.radios.com.br/radio/lg/radio29089_1445252630.jpg"
+      "img": "https://img.radios.com.br/radio/lg/radio29089_1445252630.jpg",
+      "region": "south"
     },
     {
       "id": 43,
@@ -9793,7 +9835,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "https://servidor20-1.brlogic.com:9268/live",
-      "img": "https://www.cxradio.com.br/img/Radio/Logo/b513ef32b6193abb73a7b6c8dba3cbe3.jpg"
+      "img": "https://www.cxradio.com.br/img/Radio/Logo/b513ef32b6193abb73a7b6c8dba3cbe3.jpg",
+      "region": "south"
     },
     {
       "id": 44,
@@ -9801,7 +9844,8 @@
       "city": "Passo Fundo",
       "state": "RS",
       "url": "http://centova18.ciclanohost.com.br:9653/stream?1613095442861",
-      "img": "http://rdplanalto.com//images/215xNxlogo-planalto-fm.png.pagespeed.ic._rmitRsdJE.webp"
+      "img": "http://rdplanalto.com//images/215xNxlogo-planalto-fm.png.pagespeed.ic._rmitRsdJE.webp",
+      "region": "south"
     },
     {
       "id": 45,
@@ -9809,7 +9853,8 @@
       "city": "Porto Alegre",
       "state": "RS",
       "url": "http://cast4.audiostream.com.br:8651/mp3",
-      "img": "http://radio104.com.br/wp-content/uploads/2016/07/logo104.png"
+      "img": "http://radio104.com.br/wp-content/uploads/2016/07/logo104.png",
+      "region": "south"
     },
     {
       "id": 46,
@@ -9817,7 +9862,8 @@
       "city": "Novo Hamburgo",
       "state": "RS",
       "url": "http://centova10.ciclanohost.com.br:9230/;",
-      "img": "http://www.radiofelicidade.com.br/wp-content/uploads/2018/04/Logo-Felicidade-Preto-4-150x60.png"
+      "img": "http://www.radiofelicidade.com.br/wp-content/uploads/2018/04/Logo-Felicidade-Preto-4-150x60.png",
+      "region": "south"
     },
     {
       "id": 47,
@@ -9825,7 +9871,8 @@
       "city": "Ijuí",
       "state": "RS",
       "url": "https://centova4.transmissaodigital.com:20080/;",
-      "img": "https://www.guiademidia.com.br/imagens/radios/rs/ijui/radio-reporter-am.png"
+      "img": "https://www.guiademidia.com.br/imagens/radios/rs/ijui/radio-reporter-am.png",
+      "region": "south"
     },
     {
       "id": 48,
@@ -9833,7 +9880,8 @@
       "city": "Vacaria",
       "state": "RS",
       "url": "https://stream1.play.radio.br:8089/UCS/FMVacaria/icecast.audio?1613094190384",
-      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png"
+      "img": "https://ucsfm.com.br/wp-content/uploads/2017/11/cropped-cropped-logo-cab134x40.png",
+      "region": "south"
     },
     {
       "id": 49,
